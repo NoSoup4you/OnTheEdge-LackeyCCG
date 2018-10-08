@@ -363,105 +363,105 @@ Omni Yushka (D114)	shadows	D114	D114	Character 	2	-	4	-	C2	"Human, Low Life"	"Ca
 Oma Zero (D115)	shadows	D115	D115	Character 	2	3	2	-	U3	"Mutant, Low Life, Psychic"	Bypass one Character to attack a cranked Character.
 Laura Zoom (D116)	shadows	D116	D116	Character 	3	4	4	-	U1	"Human, Net, Sommerite"	"Crank any time to give a Sommerite the ability ""Crank any time to Avoid Combat""."
 M'ay Zung (D117)	shadows	D117	D117	Character 	4	0	4	*	U1	"Human, Guild, Fringe"	"If Pull not = 0, crank any time a Character goes to a dead pile from play to gain 2 influence.  She has +2 Pull while cranked.  +1 to call Guilds."
-"Dirt on Her Exaltedness, Monique D'Aubainne, Historic Liberator and Current Shepherdess of Al Amarja, The (001)"	standard	1	1	Secret 	0	-	-	-	R1	"D'Aubainne, Government"	Crank to gain 4 Pull to call D'Aubainne cards or 1 Pull to call Government cards.
-Gladsteins' Secret (002)	standard	2	2	Secret 	0	-	-	-	R1	Gladstein	Crank to call any Gladstein card.  Crank any time to add +1 to any attack on a Gladstein.
-Glorious Lords' Secret (003)	standard	3	3	Secret 	0	-	-	-	R1	Glorious Lord	Crank to call any Glorious Lord card.  Crank any time to add +1 to any attack on a Glorious Lord.
-Glug's Secret (004)	standard	4	4	Secret 	0	-	-	-	R1	Glug	Crank to call any glug card.  Crank any time to add +1 to any attack on a Glug.
-Hermetics' Secret (005)	standard	5	5	Secret 	0	-	-	-	R1	Hermetic	Crank to call any Hermetic card.  Crank any time to add +1 to any attack on a Hermetic.
-Kergillian' Secret (006)	standard	6	6	Secret 	0	-	-	-	R1	Kergillian	Crank to gain 3 Pull to call Kergillian cards.  Crank any time to add +1 to any attack on a Kergillian.
-Pharoahs' Secret (007)	standard	7	7	Secret 	0	-	-	-	R1	"Pharaoh, Quisling"	Crank to call any Pharaoh or Quisling card.  Crank to allow one Human or Mutant to attack a Pharaoh.  The attacker is popped immediately after the attack.
-Tridents' Secret (008)	standard	8	8	Secret 	0	-	-	-	R1	Trident	Crank to call any Trident card.  Crank any time to add +1 to any attack on a Trident.
-Tulpas' Secret (009)	standard	9	9	Secret 	0	-	-	-	R1		Crank to call any Character along with a Tulpa Condition.  Crank to have one Character pop (and not be affected by) any Tulpa that it attacks.
-"Dirt on Dr Nusbaum, The (010)"	standard	10	10	Secret 	0	-	-	-	R1		"Crank to call Dr. Nusbaum.  If this card is in play, you may call Dr. Nusbaum even if he is already in play.  (You may not call a 3rd Nusbaum.)  One Nusbaum may not attack or Gang Up with the other.  One Nuisbaum may martyr for another."
-Jagannath Adhi (011)	standard	11	11	Character 	8	5	7	2*	R1	"Pharaoh, Fringe"	"+1 Pull to call Pharaoh cards.  Crank to Control any Human or Mutant he could attack.  Cannot be attacked by Humans or Mutants.  Immune: Surprise, Control.  Exclude: Artists."
-Al Amarjan Friends (012)	standard	12	12	Resource 	0	-	-	1*	C1	Burger	Non-Influence Pull only.  +1 to call Burger Cards.   NOTE: Some cards have incorrect values printed on them.
-Dalal Allar (013)	standard	13	13	Character 	2	1	2	1	R1	"Kergillian, Government"	"Crank any time to add +2 to an attack vs. a Cheryl, Constance, D'Aubainne, or Government.  Immune: Surprise."
-Sunshine Allarha (014)	standard	14	14	Character 	2	4	3	-	R1	"Human, Gladstein, Dogface, Cloak"	Crank to Control any Patrol Baboon.  Patrol Baboons ahead of her in her file do not count against the normal limit of one per player.
-Mattias Allemande (015)	standard	15	15	Character 	2	3	4	-	R1	"Kergillian, Cloak"	Crank to call any Kergillian card.  Crank to Control any Kergillian.  Any Kergillian may martyr for him.  Immune: Surprise.
-Ghadir Allemi (016)	standard	16	16	Character 	1*	1	2	-	U1	"Human, Sommerite"	The card may be called at 0-cost if you have any Kergillian Character or Resources in play.
-Fahd Amaq (017)	standard	17	17	Character 	2	4	4	-	R2	"Human, Trident, Gladstein, Cloak"	Crank to add +1 to any attack vs. a Gladstein or Trident.
-Amok (018)	standard	18	18	Condition 	3@	-	-	-	U1	Psychic	"Character bulldozes and must attack every turn unless it gets cranked.  It may not voluntarily crank other than to attack.  It may attack a player who has already been attacked.  It must attack each successive Character in a file, starting with the one in the lowest rank.  If active characters in Amok's file prevent attacking other players' Characters, Amok attacks each successive lower-ranking Character in its file.  Cost = 2 to play on Low-Lifes or Kergillians.  Amoks always move in straight lines."
-Anti-Matter Grenade (019)	standard	19	19	Gear 	1@	-	-	-	U2	"Pharaoh, Quisling"	"If in combat, the Character may pop all combatants (no save) before combat is resolved.  NOTE: Discard when used."
-Aries Ambush (020)	standard	20	20	Whammy 	-	-	-	-	U2	Aries	One Aries may Gang Up with anothjer Aries.  Play any time.
-Armada (021)	standard	21	21	Character 	3	6	6	-	U1	Mutant	Immune: Surprise.  Crank to call Bitter & Herb.
-Dev Ashana (022)	standard	22	22	Character 	6	1	4	3	R1	"Human, Gladstein, Fringe"	Crank to rearrange any or all Characters in your conspiracy.  Rearranging the Characters does not crank them.
-Astral Doorway (023)	standard	23	23	Gear 	1@	-	-	-	U2	Astral	Character can Avoid Combat.  Discard when used.
-Astral Flux (024)	standard	24	24	Whammy 	-	-	-	-	C1	Astral	Pop one Astral Gear or Condition.  Play any time.
-Astral Interference (025)	standard	25	25	Environmental 	2@	-	-	-	R1	Astral	"Any player may crank this card any time to cancel any Psychic effect.  It uncranks on your turn, as normal."
-Astral Mimicry (026)	standard	26	26	Condition 	3@	-	-	-	R1	Psychic	"Play on Human or Mutant only.  Target gains trait ""Psychic"".  Crank target to Control and Astral it could attack."
-Astral Negatrons (027)	standard	27	27	Gear 	2@	+4*	+4*	-	R2	Fringe	Play on an non-Astral character.  Bonus vs. any Astral character or character with an Astral condition.  +4 Power.
-Astral Wisdom (028)	standard	28	28	Resource 	0	-	-	1*	C3	Astral	Non-Influence Pull only.  +1 to call Astral cards.
-Atavism: Ninja (029)	standard	29	29	Condition 	4	7	6	0	R1	Astral	"Target Human's AP is now 7, DP is 6, and Pull=0.  The Character Surprises, is Immune: Surprise, and cannot use Gear.  Discard all Gear the Character has."
-Aura of Evil (030)	standard	30	30	Environmental 	3	-	-	-	R1	"Compton, Astral"	Crank any time to give one Compton character +2 Power or to uncrank on Compton character.  NOTE: Some cards are printed with incorrect values for power.
-Bad Luck (031)	standard	31	31	Whammy 	-	-1	-1	-	C1	Fortune	Character is -1 Power until end of turn.  Play any time.
-Battle Bike (032)	standard	32	32	Gear 	3@	3	0	-	R1	Aries	+3 AP.
-Beginner's Luck (033)	standard	33	33	Whammy 	-	3	3	-	U1	"Burger, Fortune"	One Burger is +3 power until end of turn.  Play any time.
-Julio Beitleiro (034)	standard	34	34	Character 	2	5	4	-	U1	"Human, Terminal, Government"	(none)
-Bellow (035)	standard	35	35	Character 	2	5	3	-	U2	"Human, Glorious Lord"	Bulldoze.
-Bestial Rampage (036)	standard	36	36	Whammy 	-	-	-	-	R1		"All active Animals in play must attack.  Player on your left goes first, and play moves to the left until all active animals have attacked.  Multiple Animals on a single team may attack a single opponent's team."
-Betelguesan (037)	standard	37	37	Character 	4@	6	6	-	R1	"Alien, Kergillian"	Not unique.  Cannot use Gear.  Immune: Control.
-Bitter & Herb (038)	standard	38	38	Character 	1	1	2	1*	C2	"Mutant, Entrepreneur, Sommerite"	+1 Pull to call Mutants.  Crank to Control and Mutant.  Cannot be attacked by Mutants.
-Blackmail (039)	standard	39	39	Whammy 	-	-	-	-	C1	Cloak	Control an opponent's character.
-Avan Bloodlord (040)	standard	40	40	Character 	5	5	6	1	R1	"Human, Glorious Lord"	Crank to Control any Glorious Lord.  Any Glorious Lord may Martyr for him.
-Bloodlust (041)	standard	41	41	Condition 	1	2	2	-	U1	Aries	"Target Aries has +2 Power, but only to determine whether enemy combatants are popped.  This card does not affect whether the Character itself is popped."
-Body Double (042)	standard	42	42	Condition 	1	-	-	-	R1	Cloak	Any attack on the Character pops this card and leaves this Character and the attacker unaffected.
-Aurora Bolt (043)	standard	43	43	Character 	1	0	1	1	C1	"Human, Artist, Sommerite"	Immune: Control.
-Mikhail Borisov (044)	standard	44	44	Character 	2	4	5	-	U1	"Human, Burger"	(none)
-Break-Bones (045)	standard	45	45	Character 	1	3	2	-	C1	"Human, Glorious Lord"	(none)
-Breakage (046)	standard	46	46	Whammy 	-	-	-	-	C1		One Weapon or Armor Gear is popped immediately after it is used in combat.  Play any time immediately after combat.
-Lino Briazzi (047)	standard	47	47	Character 	1	2	5	-	U1	"Android, Terminal"	Martyr for Coral Entity.
-Bull-Beater (048)	standard	48	48	Gear 	4	+4*	0	-	U2	Weapon	AP +4.  Combatants who would be popped by the Character are Flipped instead.  Cannot be used with another weapon.
-Bystander Effect (049)	standard	49	49	Whammy 	-	-	-	-	U1	Burger	Target Burger may Martyr for any character.  Play any time.
-Gemma Candiru (050)	standard	50	50	Character 	2	4	4	-	U1	"Human, Compton, Astral"	1 Pull to call Astral cards.  Immune: Surprise.
-James R. Cartwright (051)	standard	51	51	Character 	1	1	2	1	C2	"Human, Hermetic, Artist"	(none)
-Ricardo Cerdo (052)	standard	52	52	Character 	2	1	3	-	C1	"Human, Trident, Psychic"	Crank any time to add +1 to one other Character's Power until end of turn.
-Roger Chalk (053)	standard	53	53	Character 	2	2	4	1*	U2	"Human, Trident, Fringe"	+2 to call Fringe cards.
-Charisma (054)	standard	54	54	Condition 	2@	0	-2	1	R1	Astral	Target Human gains +1 Pull but -2 DP.
-Chikutorpl (055)	standard	55	55	Character 	4	0	6	2	C1	Android	(none)
-Mihaly Cieznick (056)	standard	56	56	Character 	2	2	3	1	U2	"Human, Hermetic, Entrepreneur"	Crank any time to block any effect from a Fortune card.
-Cloak Ambush (057)	standard	57	57	Whammy 	-	-	-	-	U1	Cloak	One Cloak may Gang Up with another Character.  Play any time.
-Cloak Hit (058)	standard	58	58	Whammy 	-	-	-	-	U1	Cloak	One Cloak Character may Bypass one active Character.  Play any time.
-Sir Arthur Compton (059)	standard	59	59	Character 	5	4	5	2*	R2	"Human, Compton, Astral"	+1 Pull to call Glorious Lords.  +2 Pull to call Compton cards.  Immune: Astral.  Cannot be attacked by Comptons.  Crank to Control any Compton.  Any Compton may martyr for him.
-Concealable Weaponry (060)	standard	60	60	Gear 	1	1	1	-	C2	Weapon	Bonuses of multiple Weapons cannot be applied to the same Character.  +1 Power.
-Contacts in the Art Scene (061)	standard	61	61	Resource 	0	-	-	1*	C3	Artist	Non-Influence Pull only.  +1 to call Artist cards.
-Copper Dagger (062)	standard	62	62	Gear 	5	-	-	*	R1	Glug	Can only be used by Glugs.  User's Pull increases by the number of Glugs in Play.  User automatically pops any Pharaoh in combat.  Unique.
-Coral Entity (063)	standard	63	63	Character 	3	-	1	1*	R2	"Coral Entity, Alien, Terminal"	Last rank.  Can't attack.  Can only be attacked by characters whose players have the Terminal resource in play.  +2 Pull to call Terminal cards.  Can't use Gear.
-Counter-Intelligence (064)	standard	64	64	Whammy 	-	-	-	-	U1	Cloak	Play any time.  Cancel the effects of a Cloak's action (including combat) or of a Cloak Whammy.
-Crystal Trap (065)	standard	65	65	Gear 	1@	-	-	-	C1	"Fringe, Psychic"	Character is Immune: Psychic.
-Cut-Ups Machine (066)	standard	66	66	Environmental 	6	-	-	0	R1	"Cut-Up, Fringe"	"This card is cranked when called.  Crank to start the gasme over.  Instead of 10 cards, each player starts with a number of cards equal to the numbers of cards he or she had outside the deck and dead pile when the machine was cranked.  The influence goal for the new game is half the normal number.  This card is not included in the new game (even if this brings the player's deck to under 40 cards)."
-Cyanide Capsule (067)	standard	67	67	Gear 	1@	-	-	-	C1	Cloak	"Character may be popped, no Save, rather than Controlled, at its player's option."
-Cheryl D'Aubainne (068)	standard	68	68	Character 	9	1	7	4*	R1	"Human, D'Aubainne, Sommerite"	Crank to Control any Cheryl.  +1 Pull to call Cheryl Cards.  Any Sommerite may Martyr for her.  Exclude: Constance D'Aubainne.
-Constance D'Aubainne (069)	standard	69	69	Character 	9	1	8	4*	R1	"Human, D'Aubainne"	Crank to Control and Entrepreneur or Constance.  +1 Pull to call Constance cards.  Exclude: Cheryl D'Aubainne.
-Jean-Christophe D'Aubainne (070)	standard	70	70	Character 	2	0	3	-	R1	"Human, D'Aubainne, Terminal"	Crank to call any Terminal card.
-Monique D'Aubainne (071)	standard	71	71	Character 	9	1	9	4	R1	"Human, D'Aubainne"	Cannot be attacked by Pharaohs or Vornites.  Crank to Control any Government.
-Joana d'Fabelle (072)	standard	72	72	Character 	2	4	3	-	C1	"Human, Trident, Cloak"	Martyr for any Trident.
-Dark Aura Ring (073)	standard	73	73	Gear 	1@	-	-	-	C1	Astral	Enemy combatants suffer -1 Power.
-Deadly Inspiration (074)	standard	74	74	Whammy 	-	-	-	-	R1		"Target Artist Character is popped.  If it is not saved, its player gets Pull points equal to 3 plus the Artist's Pull."
-Deportation Investigation (075)	standard	75	75	Condition 	1@	-	-	-	U1	Government	"Play on any Burger.  If Burger later gets cranked, it is popped immediately after taking its action (if any)."
-Silver Detti (076)	standard	76	76	Character 	1	1*	3*	-	C1	Glug	"+1 Power if at least one other Glug is in play in the same Conspiracy.  Immune: Astral, Control, Psychic."
-Disinformation (077)	standard	77	77	Whammy 	-	-	-	-	U1	Cloak	Pop one secret.
-Disintegrator Ray (078)	standard	78	78	Gear 	6@	+4*	+4*	-	R1	"Pharaoh, Quisling, Weapon"	Bonuses of multiple weapons cannot be applied to the same character.  +4 Power.
-DNA Difficulties (079)	standard	79	79	Whammy 	-	-	-	-	C1	Mutant	"Cancel the effects of a Mutant's action, including combat.  Play any time."
-Cyril Doros (080)	standard	80	80	Character 	3	1	2	2	R2	"Human, Quisling, Government"	(none)
-Dumb Luck (081)	standard	81	81	Whammy 	-	-	-	-	C1	"Burger, Fortune"	One Burger may Bypass one active Character.  Play any time.
-Duro-Trench (082)	standard	82	82	Gear 	3	2	2	-	C1	"Armour, Cloak"	Bonuses of multiple armors cannot be applied to the same character.  +2 Power.
-ELF Wave Generator (083)	standard	83	83	Environmental 	4@	-	-	-	R1	Fringe	Each player may uncrank only one Character during the uncrank phase.
-Empty (084)	standard	84	84	Gear 	3@	-	-	-	C1	Astral	Crank Character to flip any Astral Character he can attack.
-Akorra Encombi (085)	standard	85	85	Character 	3	-	7	2	U1	"Human, Quisling, Psychic"	Last rank.  Government and D'Aubainne Characters get a +4 vs. Encombi.  Can't Attack.
-Adelina Escobar (086)	standard	86	86	Character 	1	1*	2*	1	U2	"Human, C & I, Government"	+1 vs. Burger.  Crank any time to pop one Burger as it is called.
-Manuela Eselbrust (087)	standard	87	87	Character 	1	1	2	-	R1	Mutant	"Crank to call Bitter & Herb.  If popped in combat, flip a coin.  Heads: Flip enemy combatant(s).  Tails: Pop enemy combatant(s).  Text on card corrected by errata."
-Abanobi Famani (088)	standard	88	88	Character 	1	0	3	*	U2	"Human, Hermetic, Astral"	2 Pull to call Astral or Hermetic cards.  Crank to pop any Astral Condition or Astral Environmental.
-Harry Fang (089)	standard	89	89	Character 	3	5	3	-	R1	"Animal, Dogface"	Immune: Control.
-Lou Farazzi (090)	standard	90	90	Character 	0	1	1	-	C1	"Human, Hermetic, Entrepreneur"	Martyr for any Hermetic.
-Ben Feather-on-Wind (091)	standard	91	91	Character 	2	3	3	*	U2	"Kergillian, Cloak"	2 Pull to call Kergillian Gear or Conditions.  Immune: Surprise.
-Mugly Flats (092)	standard	92	92	Character 	1	3	3	-	U1	"Kergillian, Sommerite"	Immune: Surprise.
-Friends in Arms Barrio (093)	standard	93	93	Resource 	0	-	-	1*	C1	Government	Non-influence Pull only.  +1 to call Government cards.
-Friends in Broken Wings Barrio (094)	standard	94	94	Resource 	0	-	-	*	C3	Human	2 Pull to call Humans.
-Friends in Flowers Barrio (095)	standard	95	95	Resource 	0	-	-	1*	C2	Aries	Non-influence Pull only.  +1 to call Aries cards.
-Friends in Four Points Barrio (096)	standard	96	96	Resource 	0	-	-	1*	C3	Dogface	Non-influence Pull only.  +1 to call Dog-Face cards.
-Friends in Golden Barrio (097)	standard	97	97	Resource 	0	-	-	1*	C3	Entrepreneur	Non-influence Pull only.  +1 to call Entrepreneur cards.
-Friends in Great Men Barrio (098)	standard	98	98	Resource 	0	-	-	1*	C3	Glorious Lord	Non-influence Pull only.  +1 to call Glorious Lord cards.
-Friends in Sunken Barrio (099)	standard	99	99	Resource 	0	-	-	1*	C2	Burger	Non-influence Pull only.  +1 to call Burger cards.
+"Dirt on Her Exaltedness, Monique D'Aubainne, Historic Liberator and Current Shepherdess of Al Amarja, The (001)"	standard	001	1	Secret 	0	-	-	-	R1	"D'Aubainne, Government"	Crank to gain 4 Pull to call D'Aubainne cards or 1 Pull to call Government cards.
+Gladsteins' Secret (002)	standard	002	2	Secret 	0	-	-	-	R1	Gladstein	Crank to call any Gladstein card.  Crank any time to add +1 to any attack on a Gladstein.
+Glorious Lords' Secret (003)	standard	003	3	Secret 	0	-	-	-	R1	Glorious Lord	Crank to call any Glorious Lord card.  Crank any time to add +1 to any attack on a Glorious Lord.
+Glug's Secret (004)	standard	004	4	Secret 	0	-	-	-	R1	Glug	Crank to call any glug card.  Crank any time to add +1 to any attack on a Glug.
+Hermetics' Secret (005)	standard	005	5	Secret 	0	-	-	-	R1	Hermetic	Crank to call any Hermetic card.  Crank any time to add +1 to any attack on a Hermetic.
+Kergillian' Secret (006)	standard	006	6	Secret 	0	-	-	-	R1	Kergillian	Crank to gain 3 Pull to call Kergillian cards.  Crank any time to add +1 to any attack on a Kergillian.
+Pharoahs' Secret (007)	standard	007	7	Secret 	0	-	-	-	R1	"Pharaoh, Quisling"	Crank to call any Pharaoh or Quisling card.  Crank to allow one Human or Mutant to attack a Pharaoh.  The attacker is popped immediately after the attack.
+Tridents' Secret (008)	standard	008	8	Secret 	0	-	-	-	R1	Trident	Crank to call any Trident card.  Crank any time to add +1 to any attack on a Trident.
+Tulpas' Secret (009)	standard	009	9	Secret 	0	-	-	-	R1		Crank to call any Character along with a Tulpa Condition.  Crank to have one Character pop (and not be affected by) any Tulpa that it attacks.
+"Dirt on Dr Nusbaum, The (010)"	standard	010	10	Secret 	0	-	-	-	R1		"Crank to call Dr. Nusbaum.  If this card is in play, you may call Dr. Nusbaum even if he is already in play.  (You may not call a 3rd Nusbaum.)  One Nusbaum may not attack or Gang Up with the other.  One Nuisbaum may martyr for another."
+Jagannath Adhi (011)	standard	011	11	Character 	8	5	7	2*	R1	"Pharaoh, Fringe"	"+1 Pull to call Pharaoh cards.  Crank to Control any Human or Mutant he could attack.  Cannot be attacked by Humans or Mutants.  Immune: Surprise, Control.  Exclude: Artists."
+Al Amarjan Friends (012)	standard	012	12	Resource 	0	-	-	1*	C1	Burger	Non-Influence Pull only.  +1 to call Burger Cards.   NOTE: Some cards have incorrect values printed on them.
+Dalal Allar (013)	standard	013	13	Character 	2	1	2	1	R1	"Kergillian, Government"	"Crank any time to add +2 to an attack vs. a Cheryl, Constance, D'Aubainne, or Government.  Immune: Surprise."
+Sunshine Allarha (014)	standard	014	14	Character 	2	4	3	-	R1	"Human, Gladstein, Dogface, Cloak"	Crank to Control any Patrol Baboon.  Patrol Baboons ahead of her in her file do not count against the normal limit of one per player.
+Mattias Allemande (015)	standard	015	15	Character 	2	3	4	-	R1	"Kergillian, Cloak"	Crank to call any Kergillian card.  Crank to Control any Kergillian.  Any Kergillian may martyr for him.  Immune: Surprise.
+Ghadir Allemi (016)	standard	016	16	Character 	1*	1	2	-	U1	"Human, Sommerite"	The card may be called at 0-cost if you have any Kergillian Character or Resources in play.
+Fahd Amaq (017)	standard	017	17	Character 	2	4	4	-	R2	"Human, Trident, Gladstein, Cloak"	Crank to add +1 to any attack vs. a Gladstein or Trident.
+Amok (018)	standard	018	18	Condition 	3@	-	-	-	U1	Psychic	"Character bulldozes and must attack every turn unless it gets cranked.  It may not voluntarily crank other than to attack.  It may attack a player who has already been attacked.  It must attack each successive Character in a file, starting with the one in the lowest rank.  If active characters in Amok's file prevent attacking other players' Characters, Amok attacks each successive lower-ranking Character in its file.  Cost = 2 to play on Low-Lifes or Kergillians.  Amoks always move in straight lines."
+Anti-Matter Grenade (019)	standard	019	19	Gear 	1@	-	-	-	U2	"Pharaoh, Quisling"	"If in combat, the Character may pop all combatants (no save) before combat is resolved.  NOTE: Discard when used."
+Aries Ambush (020)	standard	020	20	Whammy 	-	-	-	-	U2	Aries	One Aries may Gang Up with anothjer Aries.  Play any time.
+Armada (021)	standard	021	21	Character 	3	6	6	-	U1	Mutant	Immune: Surprise.  Crank to call Bitter & Herb.
+Dev Ashana (022)	standard	022	22	Character 	6	1	4	3	R1	"Human, Gladstein, Fringe"	Crank to rearrange any or all Characters in your conspiracy.  Rearranging the Characters does not crank them.
+Astral Doorway (023)	standard	023	23	Gear 	1@	-	-	-	U2	Astral	Character can Avoid Combat.  Discard when used.
+Astral Flux (024)	standard	024	24	Whammy 	-	-	-	-	C1	Astral	Pop one Astral Gear or Condition.  Play any time.
+Astral Interference (025)	standard	025	25	Environmental 	2@	-	-	-	R1	Astral	"Any player may crank this card any time to cancel any Psychic effect.  It uncranks on your turn, as normal."
+Astral Mimicry (026)	standard	026	26	Condition 	3@	-	-	-	R1	Psychic	"Play on Human or Mutant only.  Target gains trait ""Psychic"".  Crank target to Control and Astral it could attack."
+Astral Negatrons (027)	standard	027	27	Gear 	2@	+4*	+4*	-	R2	Fringe	Play on an non-Astral character.  Bonus vs. any Astral character or character with an Astral condition.  +4 Power.
+Astral Wisdom (028)	standard	028	28	Resource 	0	-	-	1*	C3	Astral	Non-Influence Pull only.  +1 to call Astral cards.
+Atavism: Ninja (029)	standard	029	29	Condition 	4	7	6	0	R1	Astral	"Target Human's AP is now 7, DP is 6, and Pull=0.  The Character Surprises, is Immune: Surprise, and cannot use Gear.  Discard all Gear the Character has."
+Aura of Evil (030)	standard	030	30	Environmental 	3	-	-	-	R1	"Compton, Astral"	Crank any time to give one Compton character +2 Power or to uncrank on Compton character.  NOTE: Some cards are printed with incorrect values for power.
+Bad Luck (031)	standard	031	31	Whammy 	-	-1	-1	-	C1	Fortune	Character is -1 Power until end of turn.  Play any time.
+Battle Bike (032)	standard	032	32	Gear 	3@	3	0	-	R1	Aries	+3 AP.
+Beginner's Luck (033)	standard	033	33	Whammy 	-	3	3	-	U1	"Burger, Fortune"	One Burger is +3 power until end of turn.  Play any time.
+Julio Beitleiro (034)	standard	034	34	Character 	2	5	4	-	U1	"Human, Terminal, Government"	(none)
+Bellow (035)	standard	035	35	Character 	2	5	3	-	U2	"Human, Glorious Lord"	Bulldoze.
+Bestial Rampage (036)	standard	036	36	Whammy 	-	-	-	-	R1		"All active Animals in play must attack.  Player on your left goes first, and play moves to the left until all active animals have attacked.  Multiple Animals on a single team may attack a single opponent's team."
+Betelguesan (037)	standard	037	37	Character 	4@	6	6	-	R1	"Alien, Kergillian"	Not unique.  Cannot use Gear.  Immune: Control.
+Bitter & Herb (038)	standard	038	38	Character 	1	1	2	1*	C2	"Mutant, Entrepreneur, Sommerite"	+1 Pull to call Mutants.  Crank to Control and Mutant.  Cannot be attacked by Mutants.
+Blackmail (039)	standard	039	39	Whammy 	-	-	-	-	C1	Cloak	Control an opponent's character.
+Avan Bloodlord (040)	standard	040	40	Character 	5	5	6	1	R1	"Human, Glorious Lord"	Crank to Control any Glorious Lord.  Any Glorious Lord may Martyr for him.
+Bloodlust (041)	standard	041	41	Condition 	1	2	2	-	U1	Aries	"Target Aries has +2 Power, but only to determine whether enemy combatants are popped.  This card does not affect whether the Character itself is popped."
+Body Double (042)	standard	042	42	Condition 	1	-	-	-	R1	Cloak	Any attack on the Character pops this card and leaves this Character and the attacker unaffected.
+Aurora Bolt (043)	standard	043	43	Character 	1	0	1	1	C1	"Human, Artist, Sommerite"	Immune: Control.
+Mikhail Borisov (044)	standard	044	44	Character 	2	4	5	-	U1	"Human, Burger"	(none)
+Break-Bones (045)	standard	045	45	Character 	1	3	2	-	C1	"Human, Glorious Lord"	(none)
+Breakage (046)	standard	046	46	Whammy 	-	-	-	-	C1		One Weapon or Armor Gear is popped immediately after it is used in combat.  Play any time immediately after combat.
+Lino Briazzi (047)	standard	047	47	Character 	1	2	5	-	U1	"Android, Terminal"	Martyr for Coral Entity.
+Bull-Beater (048)	standard	048	48	Gear 	4	+4*	0	-	U2	Weapon	AP +4.  Combatants who would be popped by the Character are Flipped instead.  Cannot be used with another weapon.
+Bystander Effect (049)	standard	049	49	Whammy 	-	-	-	-	U1	Burger	Target Burger may Martyr for any character.  Play any time.
+Gemma Candiru (050)	standard	050	50	Character 	2	4	4	-	U1	"Human, Compton, Astral"	1 Pull to call Astral cards.  Immune: Surprise.
+James R. Cartwright (051)	standard	051	51	Character 	1	1	2	1	C2	"Human, Hermetic, Artist"	(none)
+Ricardo Cerdo (052)	standard	052	52	Character 	2	1	3	-	C1	"Human, Trident, Psychic"	Crank any time to add +1 to one other Character's Power until end of turn.
+Roger Chalk (053)	standard	053	53	Character 	2	2	4	1*	U2	"Human, Trident, Fringe"	+2 to call Fringe cards.
+Charisma (054)	standard	054	54	Condition 	2@	0	-2	1	R1	Astral	Target Human gains +1 Pull but -2 DP.
+Chikutorpl (055)	standard	055	55	Character 	4	0	6	2	C1	Android	(none)
+Mihaly Cieznick (056)	standard	056	56	Character 	2	2	3	1	U2	"Human, Hermetic, Entrepreneur"	Crank any time to block any effect from a Fortune card.
+Cloak Ambush (057)	standard	057	57	Whammy 	-	-	-	-	U1	Cloak	One Cloak may Gang Up with another Character.  Play any time.
+Cloak Hit (058)	standard	058	58	Whammy 	-	-	-	-	U1	Cloak	One Cloak Character may Bypass one active Character.  Play any time.
+Sir Arthur Compton (059)	standard	059	59	Character 	5	4	5	2*	R2	"Human, Compton, Astral"	+1 Pull to call Glorious Lords.  +2 Pull to call Compton cards.  Immune: Astral.  Cannot be attacked by Comptons.  Crank to Control any Compton.  Any Compton may martyr for him.
+Concealable Weaponry (060)	standard	060	60	Gear 	1	1	1	-	C2	Weapon	Bonuses of multiple Weapons cannot be applied to the same Character.  +1 Power.
+Contacts in the Art Scene (061)	standard	061	61	Resource 	0	-	-	1*	C3	Artist	Non-Influence Pull only.  +1 to call Artist cards.
+Copper Dagger (062)	standard	062	62	Gear 	5	-	-	*	R1	Glug	Can only be used by Glugs.  User's Pull increases by the number of Glugs in Play.  User automatically pops any Pharaoh in combat.  Unique.
+Coral Entity (063)	standard	063	63	Character 	3	-	1	1*	R2	"Coral Entity, Alien, Terminal"	Last rank.  Can't attack.  Can only be attacked by characters whose players have the Terminal resource in play.  +2 Pull to call Terminal cards.  Can't use Gear.
+Counter-Intelligence (064)	standard	064	64	Whammy 	-	-	-	-	U1	Cloak	Play any time.  Cancel the effects of a Cloak's action (including combat) or of a Cloak Whammy.
+Crystal Trap (065)	standard	065	65	Gear 	1@	-	-	-	C1	"Fringe, Psychic"	Character is Immune: Psychic.
+Cut-Ups Machine (066)	standard	066	66	Environmental 	6	-	-	0	R1	"Cut-Up, Fringe"	"This card is cranked when called.  Crank to start the gasme over.  Instead of 10 cards, each player starts with a number of cards equal to the numbers of cards he or she had outside the deck and dead pile when the machine was cranked.  The influence goal for the new game is half the normal number.  This card is not included in the new game (even if this brings the player's deck to under 40 cards)."
+Cyanide Capsule (067)	standard	067	67	Gear 	1@	-	-	-	C1	Cloak	"Character may be popped, no Save, rather than Controlled, at its player's option."
+Cheryl D'Aubainne (068)	standard	068	68	Character 	9	1	7	4*	R1	"Human, D'Aubainne, Sommerite"	Crank to Control any Cheryl.  +1 Pull to call Cheryl Cards.  Any Sommerite may Martyr for her.  Exclude: Constance D'Aubainne.
+Constance D'Aubainne (069)	standard	069	69	Character 	9	1	8	4*	R1	"Human, D'Aubainne"	Crank to Control and Entrepreneur or Constance.  +1 Pull to call Constance cards.  Exclude: Cheryl D'Aubainne.
+Jean-Christophe D'Aubainne (070)	standard	070	70	Character 	2	0	3	-	R1	"Human, D'Aubainne, Terminal"	Crank to call any Terminal card.
+Monique D'Aubainne (071)	standard	071	71	Character 	9	1	9	4	R1	"Human, D'Aubainne"	Cannot be attacked by Pharaohs or Vornites.  Crank to Control any Government.
+Joana d'Fabelle (072)	standard	072	72	Character 	2	4	3	-	C1	"Human, Trident, Cloak"	Martyr for any Trident.
+Dark Aura Ring (073)	standard	073	73	Gear 	1@	-	-	-	C1	Astral	Enemy combatants suffer -1 Power.
+Deadly Inspiration (074)	standard	074	74	Whammy 	-	-	-	-	R1		"Target Artist Character is popped.  If it is not saved, its player gets Pull points equal to 3 plus the Artist's Pull."
+Deportation Investigation (075)	standard	075	75	Condition 	1@	-	-	-	U1	Government	"Play on any Burger.  If Burger later gets cranked, it is popped immediately after taking its action (if any)."
+Silver Detti (076)	standard	076	76	Character 	1	1*	3*	-	C1	Glug	"+1 Power if at least one other Glug is in play in the same Conspiracy.  Immune: Astral, Control, Psychic."
+Disinformation (077)	standard	077	77	Whammy 	-	-	-	-	U1	Cloak	Pop one secret.
+Disintegrator Ray (078)	standard	078	78	Gear 	6@	+4*	+4*	-	R1	"Pharaoh, Quisling, Weapon"	Bonuses of multiple weapons cannot be applied to the same character.  +4 Power.
+DNA Difficulties (079)	standard	079	79	Whammy 	-	-	-	-	C1	Mutant	"Cancel the effects of a Mutant's action, including combat.  Play any time."
+Cyril Doros (080)	standard	080	80	Character 	3	1	2	2	R2	"Human, Quisling, Government"	(none)
+Dumb Luck (081)	standard	081	81	Whammy 	-	-	-	-	C1	"Burger, Fortune"	One Burger may Bypass one active Character.  Play any time.
+Duro-Trench (082)	standard	082	82	Gear 	3	2	2	-	C1	"Armour, Cloak"	Bonuses of multiple armors cannot be applied to the same character.  +2 Power.
+ELF Wave Generator (083)	standard	083	83	Environmental 	4@	-	-	-	R1	Fringe	Each player may uncrank only one Character during the uncrank phase.
+Empty (084)	standard	084	84	Gear 	3@	-	-	-	C1	Astral	Crank Character to flip any Astral Character he can attack.
+Akorra Encombi (085)	standard	085	85	Character 	3	-	7	2	U1	"Human, Quisling, Psychic"	Last rank.  Government and D'Aubainne Characters get a +4 vs. Encombi.  Can't Attack.
+Adelina Escobar (086)	standard	086	86	Character 	1	1*	2*	1	U2	"Human, C & I, Government"	+1 vs. Burger.  Crank any time to pop one Burger as it is called.
+Manuela Eselbrust (087)	standard	087	87	Character 	1	1	2	-	R1	Mutant	"Crank to call Bitter & Herb.  If popped in combat, flip a coin.  Heads: Flip enemy combatant(s).  Tails: Pop enemy combatant(s).  Text on card corrected by errata."
+Abanobi Famani (088)	standard	088	88	Character 	1	0	3	*	U2	"Human, Hermetic, Astral"	2 Pull to call Astral or Hermetic cards.  Crank to pop any Astral Condition or Astral Environmental.
+Harry Fang (089)	standard	089	89	Character 	3	5	3	-	R1	"Animal, Dogface"	Immune: Control.
+Lou Farazzi (090)	standard	090	90	Character 	0	1	1	-	C1	"Human, Hermetic, Entrepreneur"	Martyr for any Hermetic.
+Ben Feather-on-Wind (091)	standard	091	91	Character 	2	3	3	*	U2	"Kergillian, Cloak"	2 Pull to call Kergillian Gear or Conditions.  Immune: Surprise.
+Mugly Flats (092)	standard	092	92	Character 	1	3	3	-	U1	"Kergillian, Sommerite"	Immune: Surprise.
+Friends in Arms Barrio (093)	standard	093	93	Resource 	0	-	-	1*	C1	Government	Non-influence Pull only.  +1 to call Government cards.
+Friends in Broken Wings Barrio (094)	standard	094	94	Resource 	0	-	-	*	C3	Human	2 Pull to call Humans.
+Friends in Flowers Barrio (095)	standard	095	95	Resource 	0	-	-	1*	C2	Aries	Non-influence Pull only.  +1 to call Aries cards.
+Friends in Four Points Barrio (096)	standard	096	96	Resource 	0	-	-	1*	C3	Dogface	Non-influence Pull only.  +1 to call Dog-Face cards.
+Friends in Golden Barrio (097)	standard	097	97	Resource 	0	-	-	1*	C3	Entrepreneur	Non-influence Pull only.  +1 to call Entrepreneur cards.
+Friends in Great Men Barrio (098)	standard	098	98	Resource 	0	-	-	1*	C3	Glorious Lord	Non-influence Pull only.  +1 to call Glorious Lord cards.
+Friends in Sunken Barrio (099)	standard	099	99	Resource 	0	-	-	1*	C2	Burger	Non-influence Pull only.  +1 to call Burger cards.
 Frogbreath (100)	standard	100	100	Character 	1	2	3	-	C1	"Human, Glorious Lord"	(none)
 Fury (101)	standard	101	101	Whammy 	-	-	-	-	U1		"Target active Character must attack immediately.  This attack may be in addition to any attack normally allowed against one player's team.  If there are no legal defenders available, target is cranked."
 Gang A-Gley (102)	standard	102	102	Whammy 	-	-	-	-	U1	Fortune	Cancel any Whammy as it is played.  Play any time.
