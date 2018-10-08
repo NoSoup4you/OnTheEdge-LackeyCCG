@@ -1,4 +1,4 @@
-OnTheEdge	10-07-18
+OnTheEdge	10-08-18
 plugins/OnTheEdge/OTE_Standard_Rules.pdf	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/OTE_Standard_Rules.pdf	725646
 plugins/OnTheEdge/Booster_League.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Booster_League.rtf	699202
 plugins/OnTheEdge/Mudslinging.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Mudslinging.rtf	1587322
