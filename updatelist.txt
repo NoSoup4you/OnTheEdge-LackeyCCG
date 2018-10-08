@@ -16,5 +16,7 @@ plugins/OnTheEdge/packs/basic-starter.jpg	https://github.com/NoSoup4you/OnTheEdg
 plugins/OnTheEdge/packs/cutups-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/cutups-booster.jpg	-12505
 plugins/OnTheEdge/packs/shadows-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/shadows-booster.jpg	-15953
 plugins/OnTheEdge/packs/packdefinitions.xml	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/packs/packdefinitions.xml	295052
+plugins/OnTheEdge/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/general/cardback.jpg	-11255
+plugins/OnTheEdge/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/general/cardback.jpg	-5602
 CardGeneralURLs:	
 https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/general/

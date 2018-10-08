@@ -1,5 +1,6 @@
 <pluginpreferences>
 
+<lastversionupdate>181008</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>18</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
@@ -54,8 +55,6 @@
 <bindinggeneral4>META+r</bindinggeneral4>
 <bindinggeneral5>CTRL+SHIFT+f</bindinggeneral5>
 <bindinggeneral6>CTRL+SHIFT+m</bindinggeneral6>
-<bindinggeneral7>ALT+z</bindinggeneral7>
-<bindinggeneral8>CTRL+c</bindinggeneral8>
 <bindingcard0>CTRL+SPACE</bindingcard0>
 <bindingcard1>SPACE</bindingcard1>
 <bindingcard2>SHIFT+META+MINUS</bindingcard2>
