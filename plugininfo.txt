@@ -1,54 +1,137 @@
-PLUGINVERSION:"1.0"
+<plugin>
 
-PLAYERSTAT0:"Influence"	0
-PLAYERSTAT1:"Pull" 0
+	<playerstat>
+		<label>Influence</label>
+		<initialvalue>0</initialvalue>
+	</playerstat>
+	
+	<playerstat>
+		<label>Temp Pull</label>
+		<initialvalue>0</initialvalue>
+	</playerstat>
 
-SUPERZONE0:"Deck"	0	0
-SUPERZONE1:"Collection"	1	0
+	<gamezone>
+		<label>Hand</label>
+		<visibletoowner>YES</visibletoowner>
+		<visibletoothers>NO</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+      <label>Deck</label>
+      <visibletoowner>NO</visibletoowner>
+      <visibletoothers>NO</visibletoothers>
+	</gamezone> 
+	
+	<gamezone>
+      <label>Discard</label>
+      <visibletoowner>YES</visibletoowner>
+      <visibletoothers>YES</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+      <label>Removed</label>
+      <visibletoowner>YES</visibletoowner>
+      <visibletoothers>YES</visibletoothers>
+	</gamezone> 
 
-ZONE0:"Hand"	1	0
-ZONE1:"Deck"	0	0
-ZONE2:"Popped"	1	1
-ZONE3:"Removed"	1	1
+	<phase><label>UNCRANK</label></phase>
+	<phase><label>UNFLIP</label></phase>
+	<phase><label>DISCARD</label></phase>
+	<phase><label>DRAW</label></phase>
+	<phase><label>OPERATIONS</label></phase>
+	<phase><label>SHIFT</label></phase>
+	<phase><label>INFLUENCE</label></phase>
 
-PHASE0:"Uncrank"
-PHASE1:"Unflip"
-PHASE2:"Discard"
-PHASE3:"Draw"
-PHASE4:"Operations"
-PHASE5:"Shift"
-PHASE6:"Influence"
+	<generalfunction>
+		<label>Uncrank All</label>
+		<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+		<includeasbutton>YES</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Draw</label>
+		<kind>DRAWCARD</kind>
+		<includeasbutton>YES</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Spawn Card</label>
+		<kind>SPAWNCARD</kind>
+		<includeasbutton>NO</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Flip Coin</label>
+		<kind>FLIPCOIN</kind>
+		<includeasbutton>NO</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Roll D20</label>
+		<kind>ROLLD20</kind>
+		<includeasbutton>NO</includeasbutton>
+	</generalfunction>
 
-GENERALFUNCTION0:"ALLYOURCARDSMAKERIGHT0DEGREES"	"Uncrank All"	1
-GENERALFUNCTION1:"DRAWCARD"	"Draw 1"	1
-GENERALFUNCTION2:"FLIPCOIN"	"Flip a Coin"	1
-GENERALFUNCTION3:"PREVIOUSPHASE"	"Previous Phase"	0
-GENERALFUNCTION4:"NEXTPHASE"	"Next Phase"	1
-GENERALFUNCTION5:"PREVIOUSTURN"	"Previous Turn"	0
-GENERALFUNCTION6:"NEXTTURN"	"Next Turn"	1
-
-CARDFUNCTION0:"MAKERIGHT0DEGREES"	"Uncrank"	1
-CARDFUNCTION1:"MAKERIGHT90DEGREES"	"Crank"	1
-CARDFUNCTION2:"TURNOVER"	"Flip Card"	1
-CARDFUNCTION3:"EDITNOTE"	"Annotate Card"	1
-CARDFUNCTION4:"TOGGLETURNALLIMMUNITY"	"Toggle does not Uncrank"	0
-CARDFUNCTION5:"CHANGEOWNER"	"Take Control"	0
-CARDFUNCTION6:"ADDCOUNTERWHITE"	"Add + Counter"	0	0.9	0.05
-CARDFUNCTION7:"ADDCOUNTERBLACK"	"Add - Counter"	0	0.7	0.05
-CARDFUNCTION8:"REMOVECOUNTERWHITE"	"Remove + Counter" 0
-CARDFUNCTION9:"REMOVECOUNTERBLACK"	"Remove - Counter" 0
-
-COLUMN0:"Name"	1
-COLUMN1:"Set"	1
-COLUMN2:"ImageFile"	0
-COLUMN3:"Id Number"	0
-COLUMN4:"Type"	1
-COLUMN5:"Pull Cost"	1
-COLUMN6:"Attack Power"	1
-COLUMN7:"Defense Power" 1
-COLUMN8:"Pull Generated"	1
-COLUMN9:"Rarity" 1
-COLUMN10:"Traits"	1
-COLUMN11:"Rules"	1
-
-CARDBACK0:"cardback"
+	<cardfunction>
+		<label>Crank</label>
+		<kind>MAKERIGHT90DEGREES</kind>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Uncrank</label>
+		<kind>MAKERIGHT0DEGREES</kind>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Flip</label>
+		<kind>TURNOVER</kind>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Note</label>
+		<kind>EDITNOTE</kind>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Take Control</label>
+		<kind>CHANGEOWNER</kind>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>WhiteCounter--</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>WHITE</color>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>WhiteCounter++</label>
+		<kind>ADDCOUNTER</kind>
+		<color>WHITE</color>
+		<PositionX>0</PositionX>
+		<PositionY>0</PositionY>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>BlackCounter--</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>INDIGO</color>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>BlackCounter++</label>
+		<kind>ADDCOUNTER</kind>
+		<color>INDIGO</color>
+		<PositionX>1</PositionX>
+		<PositionY>0</PositionY>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
+	
+</plugin>
