@@ -1,22 +1,21 @@
-OnTheEdge	10/7/2018
-plugins/OnTheEdge/OTE_Standard_Rules.pdf	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/OTE_Standard_Rules.pdf
-plugins/OnTheEdge/Booster_League.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Booster_League.rtf
-plugins/OnTheEdge/Mudslinging.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Mudslinging.rtf
-plugins/OnTheEdge/Omni_League.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Omni_League.rtf
-plugins/OnTheEdge/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/plugininfo.txt
-plugins/OnTheEdge/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/pluginpreferences.txt
-plugins/OnTheEdge/setlist.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/setlist.txt
-plugins/OnTheEdge/Timing.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Timing.rtf
-plugins/OnTheEdge/Tournament_Rules.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Tournament_Rules.rtf
-plugins/OnTheEdge/version.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/version.txt
-plugins/OnTheEdge/sets/setinfo.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setinfo.txt
-plugins/OnTheEdge/packs/arcana-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/arcana-booster.jpg
-plugins/OnTheEdge/packs/basic-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/basic-booster.jpg
-plugins/OnTheEdge/packs/basic-starter.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/basic-starter.jpg
-plugins/OnTheEdge/packs/cutups-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/cutups-booster.jpg
-plugins/OnTheEdge/packs/shadows-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/shadows-booster.jpg
-plugins/OnTheEdge/packs/packdefinitions.xml	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/packs/packdefinitions.xml
-	
+OnTheEdge	10-07-18
+plugins/OnTheEdge/OTE_Standard_Rules.pdf	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/OTE_Standard_Rules.pdf	725646
+plugins/OnTheEdge/Booster_League.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Booster_League.rtf	699202
+plugins/OnTheEdge/Mudslinging.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Mudslinging.rtf	1587322
+plugins/OnTheEdge/Omni_League.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Omni_League.rtf	1068823
+plugins/OnTheEdge/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/plugininfo.txt	100072
+plugins/OnTheEdge/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/pluginpreferences.txt	267984
+plugins/OnTheEdge/setlist.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/setlist.txt	1206
+plugins/OnTheEdge/Timing.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Timing.rtf	2977610
+plugins/OnTheEdge/Tournament_Rules.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Tournament_Rules.rtf	2257728
+plugins/OnTheEdge/version.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/version.txt	28895
+plugins/OnTheEdge/sets/setinfo.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setinfo.txt	9710608
+plugins/OnTheEdge/packs/arcana-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/arcana-booster.jpg	-2974
+plugins/OnTheEdge/packs/basic-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/basic-booster.jpg	353250
+plugins/OnTheEdge/packs/basic-starter.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/basic-starter.jpg	-8065
+plugins/OnTheEdge/packs/cutups-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/cutups-booster.jpg	-12505
+plugins/OnTheEdge/packs/shadows-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/shadows-booster.jpg	-15953
+plugins/OnTheEdge/packs/packdefinitions.xml	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/packs/packdefinitions.xml	295052
 CardGeneralURLs:	
 https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/general/	
 https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/arcana/	
