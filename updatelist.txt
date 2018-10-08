@@ -1,28 +1,28 @@
-OnTheEdge	10-07-18
-plugins/OnTheEdge/OTE Standard Rules.pdf	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/OTE%20Standard%20Rules.pdf
-plugins/OnTheEdge/Booster League.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Booster%20League.rtf
+OnTheEdge	10/7/2018
+plugins/OnTheEdge/OTE_Standard_Rules.pdf	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/OTE_Standard_Rules.pdf
+plugins/OnTheEdge/Booster_League.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Booster_League.rtf
 plugins/OnTheEdge/Mudslinging.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Mudslinging.rtf
-plugins/OnTheEdge/Omni League.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Omni%20League.rtf
+plugins/OnTheEdge/Omni_League.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Omni_League.rtf
 plugins/OnTheEdge/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/plugininfo.txt
 plugins/OnTheEdge/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/pluginpreferences.txt
 plugins/OnTheEdge/setlist.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/setlist.txt
 plugins/OnTheEdge/Timing.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Timing.rtf
-plugins/OnTheEdge/Tournament Rules.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Tournament%20Rules.rtf
+plugins/OnTheEdge/Tournament_Rules.rtf	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/Tournament_Rules.rtf
 plugins/OnTheEdge/version.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/version.txt
-plugins/OnTheEdge/sets/setinfo.txt
-plugins/OnTheEdge/packs/arcana-booster.jpg
-plugins/OnTheEdge/packs/basic-booster.jpg
-plugins/OnTheEdge/packs/basic-starter.jpg
-plugins/OnTheEdge/packs/cutups-booster.jpg
-plugins/OnTheEdge/packs/shadows-booster.jpg
-plugins/OnTheEdge/packs/packdefinitions.xml
-
-CardGeneralURLs:		
-https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/general/
-https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/arcana/
-https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/chase/
-https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/cutups/
-https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/sample/
-https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/shadows/
-https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/standard/
-https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/Wild_Kingdom(fan)/
+plugins/OnTheEdge/sets/setinfo.txt	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setinfo.txt
+plugins/OnTheEdge/packs/arcana-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/arcana-booster.jpg
+plugins/OnTheEdge/packs/basic-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/basic-booster.jpg
+plugins/OnTheEdge/packs/basic-starter.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/basic-starter.jpg
+plugins/OnTheEdge/packs/cutups-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/cutups-booster.jpg
+plugins/OnTheEdge/packs/shadows-booster.jpg	https://github.com/NoSoup4you/OnTheEdge-LackeyCCG/raw/master/packs/shadows-booster.jpg
+plugins/OnTheEdge/packs/packdefinitions.xml	https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/packs/packdefinitions.xml
+	
+CardGeneralURLs:	
+https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/general/	
+https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/arcana/	
+https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/chase/	
+https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/cutups/	
+https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/sample/	
+https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/shadows/	
+https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/standard/	
+https://raw.githubusercontent.com/NoSoup4you/OnTheEdge-LackeyCCG/master/sets/setimages/Wild_Kingdom(fan)/	
