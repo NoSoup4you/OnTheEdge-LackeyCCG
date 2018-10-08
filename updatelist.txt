@@ -1,0 +1,6 @@
+OnTheEdge	10-07-18
+plugins/OnTheEdge/OTE Standard Rules.pdf	https://github.com/NoSoup4you/Firestorm-LackeyCCG/raw/master/FirestormRulebook.pdf	2330233
+plugins/OnTheEdge/Quick_Reference_1.jpg	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/Quick_Reference_1.jpg	-111449
+
+CardGeneralURLs:		
+https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/sets/setimages/general/

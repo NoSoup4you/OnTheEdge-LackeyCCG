@@ -1,0 +1,153 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Starter</packtitle>
+	<packimage>basic-starter</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Starter</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+
+		<kind>
+			<qty>42</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Standard</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit>
+			</kind>
+
+
+		<kind>
+			<qty>15</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Standard</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>U</data></crit>
+			</kind>
+
+		<kind>
+			<qty>3</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Standard</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>R</data></crit>
+			</kind>
+
+	</chance>
+</pack>
+
+<pack>
+
+	<packtitle>Standard</packtitle>
+	<packimage>basic-booster</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+
+		<kind>
+			<qty>6</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Standard</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit>
+			</kind>
+
+
+		<kind>
+			<qty>3</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Standard</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>U</data></crit>
+			</kind>
+
+		<kind>
+			<qty>1</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Standard</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>R</data></crit>
+			</kind>
+
+	</chance>
+</pack>
+
+<pack>
+
+	<packtitle>Cut-Ups</packtitle>
+	<packimage>cutups-booster</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+
+		<kind>
+			<qty>7</qty>
+			<crit><field>Set</field><eval>IS</eval><data>cutups</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit>
+			</kind>
+
+
+		<kind>
+			<qty>2</qty>
+			<crit><field>Set</field><eval>IS</eval><data>cutups</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>U</data></crit>
+			</kind>
+
+		<kind>
+			<qty>1</qty>
+			<crit><field>Set</field><eval>IS</eval><data>cutups</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>U1</data></crit>
+			</kind>
+
+	</chance>
+</pack>
+
+<pack>
+
+	<packtitle>Shadows</packtitle>
+	<packimage>shadows-booster</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+
+		<kind>
+			<qty>7</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Shadows</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit>
+			</kind>
+
+
+		<kind>
+			<qty>2</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Shadows</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>U</data></crit>
+			</kind>
+
+		<kind>
+			<qty>1</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Shadows</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>U1</data></crit>
+			</kind>
+
+	</chance>
+</pack>
+
+<pack>
+
+	<packtitle>Arcana</packtitle>
+	<packimage>Arcana-booster</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+
+		<kind>
+			<qty>8</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Arcana</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit>
+			</kind>
+
+
+		<kind>
+			<qty>2</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Arcana</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>U</data></crit>
+			</kind>
+
+	</chance>
+</pack>
+
+
+</packdefinitions>
