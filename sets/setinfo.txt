@@ -246,123 +246,123 @@ Janis (CH1)	cutups	Chase01	CH1	Character 	2	2*	2*	-	--	"Nekros, Astral"	"When sh
 Signe Lathiere (CH2)	cutups	Chase02	CH2	Character 	1	3	2	0	--	"Human, Burger"	Front rank only.  Pull=0.
 Grim Linden (CH3)	cutups	Chase03	CH3	Character 	1	2*	2	-	--	"Human, Low Life"	+3 AP vs. Humans.
 Chris Robinson (CH4)	cutups	Chase04	CH4	Character 	1	2	3	-	--	"Human, Cut-Up, Burger, Chaos"	"If today is Monday, Chris cannot use Gear."
-About the Low-Lives (D001)	shadows	1	D001	Secret 	0	-	-	-	U1	Low Life	Crank to call any number of Low-Lifes whose Costs total 6 or less.  Crank to pop any Low-Life.
-Crime & Punishment (D002)	shadows	2	D002	Secret 	0	-	-	-	U1	"Criminal, Law"	"Crank for 4 Pull to call Criminal and Law cards.  Crank any time to give a Criminal card the trait Law, or vice versa."
-Mr. LeThuy's Secret (D003)	shadows	3	D003	Secret 	0	-	-	-	U1	Le Thuy	Crank for 4 Pull to call LeThuy cards.  Crank any time toi add +1 to any attack on a LeThuy.
-"Net's Secret, The (D004)"	shadows	4	D004	Secret 	0	-	-	-	U1	Net	"Crank for 4 Pull to call Net cards.  Crank any time to give a Character +1 vs. Nets or to give any Net card the trait ""Criminal""."
-Monty Albion (D005)	shadows	5	D005	Character 	3	3	3	-	U3	"Human, Trident, Low Life"	Crank any time to add +3 to another Character's DP.  Albion is then popped (no Save).
-All-Fours (D006)	shadows	6	D006	Character 	1	2	2	-	U1	Animal	May not use Gear.  Immune: Control.
-Ghadir Allemi (D007)	shadows	7	D007	Character 	1	4	4	-	U1	"Human, Throckmorton"	Crank any time to let one Character Bypass Characters to attack any Sommerite.
-Lyubov Anatova (D008)	shadows	8	D008	Character 	0*	1	1	-	U1	"Human, Cloak, Low Life"	Doesn't count against 0-Cost card limit.
-Alicia Andromeda (D009)	shadows	9	D009	Character 	2	1	3	1	C2	"Human, Net"	You can give 1 or 2 of your influence points to another player during that player's Influence phase.  Each other player can give you 1 or 2 of his or her Influence points during your Influence phase.  Teammates must agree to all deals involving transfer of Influence.
-Annie the Rib (D010)	shadows	10	D010	Character 	2	2	2	-	C2	"Human, Lurker"	Crank to Avoid Combat.
-Astral Tempest (D011)	shadows	11	D011	Condition 	1@	-	-	-	C3	Astral	"During your discard phase, remove Tempest Counters from your Characters.  During your Draw phase, Tempest's controller distributes 3 Tempest counters among this character, adjacent characters, and chartacters in this file.  Characters are -1 Power per Tempest Counter (an Astral effect)."
-Atavism: Priestess of Mu (D012)	shadows	12	D012	Condition 	2@	-	-	-	U1	Astral	"Target Human or Mutant gains trait Astral and abilities ""Crank to draw a card immediately after calling an Astral Condition, Whammy, or Environmental"" and ""Exclude Pharaohs"".  Unique."
-Tommy Bakka (D013)	shadows	13	D013	Character 	3	1*	1	-	U3	"Human, Le Thuy"	"May attack at +6 AP, but he cannot use weapons or armor when doing so, and he is then popped (no save)."
-Andrew Banks (D014)	shadows	14	D014	Character 	4	2	5	*	U1	"Human, Guild, Fringe"	Crank to give one Character in his file +5 AP and Bulldoze; target Character is popped (no save) immediately afdter combat.  +1 Pull to call Guilds.
-Rixa Bekker (D015)	shadows	15	D015	Character 	4	6	5	-	U3	"Human, Law, CPC, Registered, Psychic"	"May bypass to attack any cranked, non-Registered Psychic, or cranked, non-Registered Astral."
-Bolstered Heart (D016)	shadows	16	D016	Condition 	1@	2	2	-	U1	Trident	"Power +2.  Target Low-Life loses trait ""Low-Life"" and gains ability ""Immune: Control""."
-Dr. Renee Boneau (D017)	shadows	17	D017	Character 	2	2	2	1*	U1	"Human, Psychic, Fringe"	+2 Pull to call Alien cards.  She allows you to call Alien bulleted cards.  Cost alien cards as if she had the trait Alien.
-Bums' Rush (D018)	shadows	18	D018	Whammy 	-	-	-	-	C4	Low Life	Any number of Low-Lifes may gang up with an attacking Low-Life.
-Ace J. Cirrus (D019)	shadows	19	D019	Character 	3	4	6	-	C3	"Mutant, Net"	Crank any time to give another Character in his file +2 DP.
-Contacts in the CPC (D020)	shadows	20	D020	Resource 	0@	-	-	*	C2	"Government, CPC"	2 Pull to call CPC cards.  Crank any time to reduce a non-Registered Astral's or non-Registered Psychic's DP by 1 (non-cumulative).
-Jorge Corriendo (D021)	shadows	21	D021	Character 	3	4	4	-	U3	"Human, Hangman, Control"	"May Gang Up with any Hangman in his file.  Crank anytime to add his DP to the DP of any other, defending Hangman in his file; he is then a combatant and suffers any combat results that the other Hangman suffers."
-Crackdown (D022)	shadows	22	D022	Environmental 	3	-	-	-	U1	Law	"Any player may pay 1 Pull and crank this card any time to cancel the effects of a Criminal's action (including combat) or to pop a Criminal condition as it is called.  The player may crank any cards necessary to generate this Pull.  This card uncranks on your turn, as normal."
-Monique D'Aubainne (D023)	shadows	23	D023	Character 	9	-	9	4	U1	"Human, D'Aubainne, Net"	Last Rank.  Can't Attack.  Crank to counter the effect of any Law card (including combat).  Exclude: Cheryl & Constance D'Aubainne.
-De-Individuator (D024)	shadows	24	D024	Gear 	2@	-	-	-	U3	Fringe	Character may crank any time to remove one trait from a character.
-"Dead, Dead, Dead (D025)"	shadows	25	D025	Condition 	1	-	-	-	C4		"Play any time oin a non-Tulpa Character that has just been popped (and not Saved).  Instead of going to the dead pile, it remains in play in terms ofd uniqueness only.  You may crank any cards, you need to be in order to generate Pull to call this card."
-T. Joe Dreck (D026)	shadows	26	D026	Character 	2	1	1	-	U3	"Human, Low Life"	Martyr for any Character with Pull that is immediately to the left of this card.
-Eel (D027)	shadows	27	D027	Character 	3	4	4	-	U2	"Mutant, Lurker"	Surprise.  Characters whose AP is 6 or lower cannot select her as the target of an attack.
-El Zod 7 (D028)	shadows	28	D028	Character 	1	2	1	-	C2	"Alien, Low Life"	Immune: Psychic.
-Facelessness (D029)	shadows	29	D029	Whammy 	-	-	-	-	C3	Low Life	Play any time to redirect a non-Low-Life's attack from a Low-Life to any other legal Low-Life target.  The attack counts as normal toward the limit allowed against the original defending player.
-May Ferendi (D030)	shadows	30	D030	Character 	0	1	3	*	U1	"Human, Le Thuy, Fringe"	+1 Pull to call Fringe Cards.  Crank to call any number of LeThuy Injections.
-Roz Fernsch (D031)	shadows	31	D031	Character 	2	1*	1*	-	U2	"Mutant, Low Life"	Cannot be attacked by non-Low-Life Humans.  +4 vs. non-Low-Life Humans.
-Otto Finkelstein (D032)	shadows	32	D032	Character 	3	3	4	1	U2	"Human, Hangman"	"Last Rank.  Crank any time to give all Hangmen +2 vs. Aliens, Animals, Artists. Glorious Lortds, and Mutants.  +1 Pull to call Hangmen."
-Fishwipe (D033)	shadows	33	D033	Character 	0*	2	1	-	C2	"Human, Low Life"	Doesn't count against 0-Cost card limit.
-Flux (D034)	shadows	34	D034	Character 	2	2	4	*	U2	"Human, Lurker"	"If Pull not = 0, crank her and one non-lurker to get 2 pull.  She has +1 Pull when cranked."
-Formless (D035)	shadows	35	D035	Character 	2	3	3	*	U2	"Human, Lurker"	"If Pull not = 0, crank him and one non-lurker to get 2 pull.  He has +1 Pull when cranked."
-Betty Frenum (D036)	shadows	36	D036	Character 	4	4	4	-	U1	"Human, Artist"	"If Pull=0, you get 1 Influence every time she survives a combat with an oppoenent's Character.  She has +1 Pull when cranked."
-Friends in Justice Barrio (D037)	shadows	37	D037	Resource 	0	-	-	1*	C4	Hangman	Non-influence Pull only.  +1 Pull to call Hangman cards.
-Friends Under the Street (D038)	shadows	38	D038	Resource 	0	-	-	1*	C4	Lurker	Non-Influence Pull only.  +1 Pull to call Lurker cards.
-Miriam Galaxy (D039)	shadows	39	D039	Character 	2	2	3	-	C3	"Human, Lurker, Astral"	Bypass.  Surprise.
-Pepper Grange (D040)	shadows	40	D040	Character 	1	2	2	-	C3	"Human, Hangman"	"May Gang Up with any Hangman in his file.  Crank anytime to add his DP to the DP of any other, defending Hangman in his file; he is then a combatant and suffers any combat results that the other Hangman suffers."
-Julie Grouse (D041)	shadows	41	D041	Character 	3	5	5	-	U1	"Human, Criminal, Law"	Crank to add +2 to any attack against a Law or Government.
-Thunder Gruen (D042)	shadows	42	D042	Character 	2	9	5	0	U2	"Human, Low Life"	"Last rank.  He is cranked when called.  After he attacks, he leaves play, except in terms of uniqueness.  Bulldoze."
-Jill Grunder (D043)	shadows	43	D043	Character 	3	2	4	-	U2	"Human, Psychic, Net"	Crank any time to let any Net or Criminal.  Crank any time to give any Net +1 AP.
-Gum It Up (D044)	shadows	44	D044	Whammy 	-	-	-	-	C4		Target Character may crank to pop any condition with which it shares a trait.  The condition may not be on the target character.
-Roman Gundle (D045)	shadows	45	D045	Character 	3	4	4	-	U2	"Human, Hangman"	"Surprise.  May Gang Up with any Hangman in his file.  Crank anytime to add his DP to the DP of any other, defending Hangman in his file; he is then a combatant and suffers any combat results that the other Hangman suffers."
-Hack-Master (D046)	shadows	46	D046	Character 	2	2	2	-	C2	"Human, Criminal"	Gang Up.
-Eddie Haggle (D047)	shadows	47	D047	Character 	2	3*	2*	-	U3	"Human, Low Life"	"In combat, add his opponent's Pull to his Power."
-Barber Hammock (D048)	shadows	48	D048	Character 	3	1	2*	-	U1	"Mutant, Psychic, Throckmorton"	"Crank any time to add +6 to own DP, +2 to a Throckmorton's DP, or +2 to any attack on a Mutant.  Immune: Surprise."
-Hand Out to the Lost (D049)	shadows	49	D049	Resource 	0	-	-	*	C3	Low Life	1 Pull to call Low-Life cards.  Crank to draw a card when calling a Low-Life.  You may only draw one card this way per Low-Life called.
-Heating Up (D050)	shadows	50	D050	Environmental 	2	-	-	-	U2		Uncranks during each player's uncrank phase.  Any player may crank it and pay 2 pull to draw a card from his or her deck during Operations phase.
-Jerry Heckle (D051)	shadows	51	D051	Character 	3	6	4	-	U1	"Human, Law, Net, Criminal"	"Crank to let a Character Bypass to attack a Law, Net or Criminal."
-Consuela Herrera (D052)	shadows	52	D052	Character 	3	0	1	-	U2	"Human, Le Thuy"	Crank any time to cancel the Pull just generated by another character.
-Honor Among Thieves (D053)	shadows	53	D053	Whammy 	-	+3*	-	-	C4	Criminal	Target Criminal gets +3 AP vs. any Character with whom it shares a trait.
-Howdah (D054)	shadows	54	D054	Character 	3	1	3	*	U2	"Human, Le Thuy, Astral"	Pull equals number of Low-Life's in her file.  Any Low-Life may martyr for her.
-Anya Huesco (D055)	shadows	55	D055	Character 	2	1	4	*	U1	"Human, Net"	Crank for +2 non-Influence Pull.  Last Rank.  Crank to crank any Law.  Crank any time to reduce a Law's DP by 5.
-Azza Jami (D056)	shadows	56	D056	Character 	2	5	5	-	U3	"Android, Terminal"	You choose which player to attack and that player chooses the target Character (from among legal options).
-Knobs (D057)	shadows	57	D057	Character 	1	4	4	-	C3	"Human, Low Life, Criminal"	He does not uncrank during Uncrank phase if he is alone in a file.
-Kwik Klinik (D058)	shadows	58	D058	Resource 	3	-	0.5	-	U2		Crank any time to give a Human in combat +0.5 DP.  Unique.
-LeThuy Injection (D059)	shadows	59	D059	Condition 	1@	-	-	-	C2	Le Thuy	Target Human gains trait LeThuy.  Character is Immune: Control (except for Control by Mr. LeThuy).  Can be called on a Low-Life for Cost 0*.
-Mr. Tramh LeThuy (D060)	shadows	60	D060	Character 	4	2	6	*	U1	"Human, Le Thuy"	Add +1 for each enemy Character that your Characters pop (you may use counters); erase Pull when he uncranks.  Crank to Control a LeThuy.  Any LeThuy may martyr for him.  +2 Pull to call LeThuy cards.
-Giovanni Mancini (D061)	shadows	61	D061	Character 	4	2	5	1	U1	"Human, Giovanni's Cabbie, Criminal, Net"	All Giovanni's Cabbies gain trait 'Criminal' and those in your first rank may crank to give Giovanni +1 pull until he next uncranks (you may use counters).
-Freddie Manger (D062)	shadows	62	D062	Character 	2	3	4	-	U3	"Mutant, Psychic"	Cannot be Bypassed.
-Gregory Mantle (D063)	shadows	63	D063	Character 	2	-	2	-	U3	"Human, Psychic"	"Can't attack.  Crank to draw card from ytour deck.  If it's not a Character, discard it immediately."
-Kalev Maran (D064)	shadows	64	D064	Character 	2	3	4	-	U2	"Human, Aries"	"Any Low-Life may gang up with him.  You may select any Low-Lifes that the defender must pop (if possible), and the defender may select any other attackers so that the AP of the attackers popped is no more than the DP (as normal)."
-Rita Milagro (D065)	shadows	65	D065	Character 	3	4	4	-	U1	"Human, Le Thuy, Trident, Cloak"	"May bypass Tridents or Bypass any Characters to attack a Trident.  Crank to pop any Trident card; she is then popped, (no save)."
-Vincent Moire (D066)	shadows	66	D066	Character 	0*	3	3	-	C2	"Human, Low Life, Criminal"	"If he is alone in a file during your Uncrank phase, he is popped (no save).  Doesn't count against 0-Cost card limit."
-Moonsilk (D067)	shadows	67	D067	Character 	2	3	4	-	U2	"Human, Hermetic, Astral"	Crank any time to cancel any Astral Whammy or to pop any Astral Condition or Nekros Condition as it is used.
-Ajay Obalago (D068)	shadows	68	D068	Character 	2	3	3	1*	U1	"Human, Burger, Criminal"	+1 Pull to call Criminal cards.
-Rodney Odge (D069)	shadows	69	D069	Character 	2	1	1	-	C2	Human	May Gang Up with or Martyr for any Hangman.
-Seiji Ogata (D070)	shadows	70	D070	Character 	2	3	4	*	U1	"Human, Entrepreneur, Constance"	"If Pull not = 0, crank to remove an adjacent Human without positive pull from play (except in terms of uniqueness), you then get 2 Pull.  Ogata has +2 Pull while cranked."
-Lissy Omgek (D071)	shadows	71	D071	Character 	4	5	5	-	U1	"Glug, Criminal"	"Immune: Astral, Control, and Psychic."
-Orders From Tomorrow (D072)	shadows	72	D072	Whammy 	-	-	-	-	C2	Throckmorton	"Target Throckmorton uncranks (if necessary) and attacks.  You choose which player to attack, and that player chooses the target Character (from along legal, non-Throckmorton options).  If popped, the attacker is not saved.  The attack does not count against the normal attack limit."
-Giurgiu Otinka (D073)	shadows	73	D073	Character 	3	1	5	1*	U1	"Human, Quisling, Net"	"Last Rank.  +1 to call Net, Quisling, and Criminal Cards."
-Otz (D074)	shadows	74	D074	Character 	1	1	1	-	U3	"Human, Low Life"	"Crank to force one active Character to attack him, provided Otz is a legal target."
-Elizabeth Pock (D075)	shadows	75	D075	Character 	4	1	1	*	U1	"Human, Low Life, Astral"	"She is cranked when called if any Characters in her file are cranked.  Characters in her file have Pull=0 until end of your turn.  For each pull so lost, she gains +1 Pull.  Immune: Astral."
-Lujayn Qufra (D076)	shadows	76	D076	Character 	3	3	3	-	U1	"Mutant, Vornite, Psychic"	Crank to Control a Low-Life or move a Low-Life to a new position in its conspiracy (without cranking the Low-Life).
-Hank Ramas (D077)	shadows	77	D077	Character 	2	4	3	-	C2	"Human, Hangman"	"May Gang Up with any Hangman in his file.  Crank anytime to add his DP to the DP of any other, defending Hangman in his file; he is then a combatant and suffers any combat results that the other Hangman suffers."
-Wanda Rod (D078)	shadows	78	D078	Character 	2	2	2	-	U2	"Human, Registered, Psychic"	"Any time you play a Fortune Whammy, you may crank her to draw a card.  Any D'Aubainne or Government may crank to control her."
-Alonzo Rubio (D079)	shadows	79	D079	Character 	4	6*	6*	-	U1	"Kergillian, DBI, Government"	Immune: Surprise.  Flip a coin when called.  Heads: +2 vs. Kergillians.  Tails: +2 vs. DBI's & Governments.  (Leave coin on card as a reminder.)
-Norton Rumple (D080)	shadows	80	D080	Character 	6	8	8	-	C2	"Human, Law"	"Immune: Control.  As your first action during Operations phase, you either pay 4 pull or Rumple is cranked.  Cannot attack a D'Aubainne."
-Benjamin Sells (D081)	shadows	81	D081	Character 	1	1	3	*	C2	"Human, Hangman"	"Immune: Surprise.  May Gang Up with any Hangman in his file.  Crank anytime to add his DP to the DP of any other, defending Hangman in his file; he is then a combatant and suffers any combat results that the other Hangman suffers.  +1 Pull to call Hangmen."
-Shake 'Em Out (D082)	shadows	82	D082	Whammy 	-	-	-	-	C3		Every non-Low-Life whose DP is 1 or lower is popped (no Save).
-Gayth Silver (D083)	shadows	83	D083	Character 	3	5	5	-	C2	"Human, Neutraliser"	Surprise.
-Slaughter (D084)	shadows	84	D084	Character 	5	4	3	-	U2	"Human, Compton, Astral"	Xrank any time to remove one adjacent Character without positive pull from play (except in terms of uniqueness).  Then add +5 to any Character's AP.
-Sludge (D085)	shadows	85	D085	Character 	2	3	3	-	C2	"Human, Lurker"	Martyr for Flux or Formless.
-Smack Back Attack (D086)	shadows	86	D086	Whammy 	-	-	-	-	C4		Defender may use AP (if any) in place of DP.  Play any time.
-Spike (D087)	shadows	87	D087	Character 	2	3	2	-	C2	"Human, Glorious Lord"	Bypass Low-Lifes.  All Low-Lifes be Bypasses are cranked.
-Squeaks (D088)	shadows	88	D088	Character 	3	1	4	-	U3	"Human, Lurker, Psychic"	Crank to pop any character that he is in position to attack and whose DP is 2 or lower.
-Aniela Stansky (D089)	shadows	89	D089	Character 	2	3	2	-	U2	"Human, Dogface, Low Life"	Patrol baboons ahead of her in her file don't count against the limit of one per player.  Patrol Baboons in her file have the ability Bulldoze.
-Startle (D090)	shadows	90	D090	Character 	0*	2	3	-	C2	"Human, Low Life"	Any attacker may Surprise him.  Doesn't count against 0-Cost card limit.
-Starwalk (D091)	shadows	91	D091	Character 	2	3	3	-	C2	"Mutant, Lurker"	"During your shift phase, you may move her to any legal position in your Conspiracy without cranking her."
-Robert Stop (D092)	shadows	92	D092	Character 	1	3	3	-	C2	"Human, Low Life"	Any Gear on him is popped immediately after it is used.
-Cooper Syme (D093)	shadows	93	D093	Character 	3	4	6	-	C2	"Human, Fringe, Guild"	Martyr for any Guild.
-"Rod ""Scabs"" Tar (D094)"	shadows	94	D094	Character 	0	3	1	*	C2	"Human, Le Thuy, Low Life"	+1 Pull to call Lurkers.
-Fea Terronez (D095)	shadows	95	D095	Character 	4@	0	1	-	U1	"Sub-Random, Low Life"	"If popped and not saved, she moves (cranked) to a different (legal) position in your Conspiracy."
-"Radiator, The (D096)"	shadows	96	D096	Character 	2	1	2	-	U2	"Human, Low Life, Registered, Psychic"	"+3 vs. Psychics.  When in combat, Psychic Gear on all combatants is popped before combat is resolved.  Can't use Psychic Gear."
-"Skids, The (D097)"	shadows	97	D097	Condition 	*	-1	-1	0	C3	"Cloak, Low Life"	Target Human or Mutant gains trait Low-Life.  Character may not uncrank during uncrank phase if alone in file.  Cost is 3 + target's Pull.
-"Squeeze, The (D098)"	shadows	98	D098	Condition 	*	-	-	-	C3	"Criminal, Kidnap"	"To call, you must crank a Criminal that can attack the target.  Cost=Target's DP.  Character is moved to your Conspiracy and gains ability, ""Last Rank""."
-Clyde Throckmorton (D099)	shadows	99	D099	Character 	6	3	6	2	U1	"Human, Throckmorton, Control, Entrepreneur"	Exclude: Artists.
-Dolores Titania (D100)	shadows	100	D100	Character 	5	0	4	*	U1	"Cyborg, Guild, Psychic"	Crank any time to make an attacker select a different defending Character (but onbly if another defender is available outside the attacker's Conspiracy.)  This attack still counts as the one permitted against the original player.  +1 to call Guilds.
-Touchy Explosives (D101)	shadows	101	D101	Gear 	1	+4*	+4*	-	C3	Weapon	"When used, flip a coin.  Heads: +4 vs. current combatant(s).  Tails: Character is popped and flipped, cancelling combat with current combatant(s); If defending, the Character is considered popped by the attack.  Multiple copies may be used.  Discard when used."
-Underworld Contacts (D102)	shadows	102	D102	Condition 	1	-	-1	1	C3	"Criminal, Net"	"Play on Entrepreneur Only.  -1 DP, +1 Pull."
-Vibro Blaster (D103)	shadows	103	D103	Gear 	4@	+4*	+4*	-	C3	"Fringe, Gladstein, Weapon"	"+4 Power.  Bonuses of multiple weapons cannot be applied to the same Character.  Immediately after each time a Character uses the Vibro-Blaster, character loses 1 Power permenently (you may use counters)."
-Vortex (D104)	shadows	104	D104	Character 	4	1	2	-	U1	"Mutant, Lurker, Chaos"	"Crank to call any card from your hand, you must have at least three cards in your hand, and the player on your left randomly selects the card.  If the card is a control card, or if it has no legal targets, it is discarded."
-Tanja Voss (D105)	shadows	105	D105	Character 	5	2	3	*	U1	"Mutant, Guild, Fringe"	Crank to crank all Characters in play.  +1 Pull to call Guilds.
-Simon Wallop (D106)	shadows	106	D106	Character 	2	1	3	*	C2	"Human, Criminal"	"If Pull not = 0, crank any time to get Influence equal to the Pull just generated by an opponent's character.  He has this amount of pull until he uncranks (you may use counters)."
-Walter Was (D107)	shadows	107	D107	Character 	0*	2	1	-	U3	"Human, Low Life"	"At your option, at any time, in regards to any effect or action, you may treat him as if he did not have the trait ""Human"".  Doesn't count against 0-Cost card limit."
-Great White (D108)	shadows	108	D108	Character 	4	8*	4	-	C2	"Mutant, Criminal, Net"	Crank any time to attack a Character (and legal target) that has been attacked this turn.  May only attack this way.  Doesn't count against attack limit.
-Rhonda Widdershins (D109)	shadows	109	D109	Character 	0*	3	3	-	C2	"Human, Low Life"	"During your Shift phase, she is cranked.  Doesn't count against 0-Cost card limit."
-Wrench (D110)	shadows	110	D110	Character 	1	6	3	-	C2	"Human, Criminal"	"When Wrench attacks, the defender may bid 1 Pull to cancel the attack.  The chance to bid circles to the left.  The highest bidder must pay the bid in Pull (by cranking any cards necessary to do so) and may decide whether Wrench's attack is cancelled.  If so, Wrench is cranked, but this attack is considered not to have happened."
-Xotok (D111)	shadows	111	D111	Character 	1*	3	3	-	U1	Alien	"During Discard phase, you may remove one adjacent character from play (except in terms of uniqueness).  Then place one +1 Power counter on Xotok."
-Sandy Yama (D112)	shadows	112	D112	Character 	1	2	2	-	C2	"Human, Low Life"	Gang Up.  May only attack by Ganging Up.
-Margarita Yelmo (D113)	shadows	113	D113	Character 	2	1	1	-	U2	"Human, Psychic, Low Life"	Crank her and one other Psychic to lower a Character's DP by 5.
-Omni Yushka (D114)	shadows	114	D114	Character 	2	-	4	-	C2	"Human, Low Life"	"Can't attack.  He may not crank, though he may be cranked."
-Oma Zero (D115)	shadows	115	D115	Character 	2	3	2	-	U3	"Mutant, Low Life, Psychic"	Bypass one Character to attack a cranked Character.
-Laura Zoom (D116)	shadows	116	D116	Character 	3	4	4	-	U1	"Human, Net, Sommerite"	"Crank any time to give a Sommerite the ability ""Crank any time to Avoid Combat""."
-M'ay Zung (D117)	shadows	117	D117	Character 	4	0	4	*	U1	"Human, Guild, Fringe"	"If Pull not = 0, crank any time a Character goes to a dead pile from play to gain 2 influence.  She has +2 Pull while cranked.  +1 to call Guilds."
+About the Low-Lives (D001)	shadows	D001	D001	Secret 	0	-	-	-	U1	Low Life	Crank to call any number of Low-Lifes whose Costs total 6 or less.  Crank to pop any Low-Life.
+Crime & Punishment (D002)	shadows	D002	D002	Secret 	0	-	-	-	U1	"Criminal, Law"	"Crank for 4 Pull to call Criminal and Law cards.  Crank any time to give a Criminal card the trait Law, or vice versa."
+Mr. LeThuy's Secret (D003)	shadows	D003	D003	Secret 	0	-	-	-	U1	Le Thuy	Crank for 4 Pull to call LeThuy cards.  Crank any time toi add +1 to any attack on a LeThuy.
+"Net's Secret, The (D004)"	shadows	D004	D004	Secret 	0	-	-	-	U1	Net	"Crank for 4 Pull to call Net cards.  Crank any time to give a Character +1 vs. Nets or to give any Net card the trait ""Criminal""."
+Monty Albion (D005)	shadows	D005	D005	Character 	3	3	3	-	U3	"Human, Trident, Low Life"	Crank any time to add +3 to another Character's DP.  Albion is then popped (no Save).
+All-Fours (D006)	shadows	D006	D006	Character 	1	2	2	-	U1	Animal	May not use Gear.  Immune: Control.
+Ghadir Allemi (D007)	shadows	D007	D007	Character 	1	4	4	-	U1	"Human, Throckmorton"	Crank any time to let one Character Bypass Characters to attack any Sommerite.
+Lyubov Anatova (D008)	shadows	D008	D008	Character 	0*	1	1	-	U1	"Human, Cloak, Low Life"	Doesn't count against 0-Cost card limit.
+Alicia Andromeda (D009)	shadows	D009	D009	Character 	2	1	3	1	C2	"Human, Net"	You can give 1 or 2 of your influence points to another player during that player's Influence phase.  Each other player can give you 1 or 2 of his or her Influence points during your Influence phase.  Teammates must agree to all deals involving transfer of Influence.
+Annie the Rib (D010)	shadows	D010	D010	Character 	2	2	2	-	C2	"Human, Lurker"	Crank to Avoid Combat.
+Astral Tempest (D011)	shadows	D011	D011	Condition 	1@	-	-	-	C3	Astral	"During your discard phase, remove Tempest Counters from your Characters.  During your Draw phase, Tempest's controller distributes 3 Tempest counters among this character, adjacent characters, and chartacters in this file.  Characters are -1 Power per Tempest Counter (an Astral effect)."
+Atavism: Priestess of Mu (D012)	shadows	D012	D012	Condition 	2@	-	-	-	U1	Astral	"Target Human or Mutant gains trait Astral and abilities ""Crank to draw a card immediately after calling an Astral Condition, Whammy, or Environmental"" and ""Exclude Pharaohs"".  Unique."
+Tommy Bakka (D013)	shadows	D013	D013	Character 	3	1*	1	-	U3	"Human, Le Thuy"	"May attack at +6 AP, but he cannot use weapons or armor when doing so, and he is then popped (no save)."
+Andrew Banks (D014)	shadows	D014	D014	Character 	4	2	5	*	U1	"Human, Guild, Fringe"	Crank to give one Character in his file +5 AP and Bulldoze; target Character is popped (no save) immediately afdter combat.  +1 Pull to call Guilds.
+Rixa Bekker (D015)	shadows	D015	D015	Character 	4	6	5	-	U3	"Human, Law, CPC, Registered, Psychic"	"May bypass to attack any cranked, non-Registered Psychic, or cranked, non-Registered Astral."
+Bolstered Heart (D016)	shadows	D016	D016	Condition 	1@	2	2	-	U1	Trident	"Power +2.  Target Low-Life loses trait ""Low-Life"" and gains ability ""Immune: Control""."
+Dr. Renee Boneau (D017)	shadows	D017	D017	Character 	2	2	2	1*	U1	"Human, Psychic, Fringe"	+2 Pull to call Alien cards.  She allows you to call Alien bulleted cards.  Cost alien cards as if she had the trait Alien.
+Bums' Rush (D018)	shadows	D018	D018	Whammy 	-	-	-	-	C4	Low Life	Any number of Low-Lifes may gang up with an attacking Low-Life.
+Ace J. Cirrus (D019)	shadows	D019	D019	Character 	3	4	6	-	C3	"Mutant, Net"	Crank any time to give another Character in his file +2 DP.
+Contacts in the CPC (D020)	shadows	D020	D020	Resource 	0@	-	-	*	C2	"Government, CPC"	2 Pull to call CPC cards.  Crank any time to reduce a non-Registered Astral's or non-Registered Psychic's DP by 1 (non-cumulative).
+Jorge Corriendo (D021)	shadows	D021	D021	Character 	3	4	4	-	U3	"Human, Hangman, Control"	"May Gang Up with any Hangman in his file.  Crank anytime to add his DP to the DP of any other, defending Hangman in his file; he is then a combatant and suffers any combat results that the other Hangman suffers."
+Crackdown (D022)	shadows	D022	D022	Environmental 	3	-	-	-	U1	Law	"Any player may pay 1 Pull and crank this card any time to cancel the effects of a Criminal's action (including combat) or to pop a Criminal condition as it is called.  The player may crank any cards necessary to generate this Pull.  This card uncranks on your turn, as normal."
+Monique D'Aubainne (D023)	shadows	D023	D023	Character 	9	-	9	4	U1	"Human, D'Aubainne, Net"	Last Rank.  Can't Attack.  Crank to counter the effect of any Law card (including combat).  Exclude: Cheryl & Constance D'Aubainne.
+De-Individuator (D024)	shadows	D024	D024	Gear 	2@	-	-	-	U3	Fringe	Character may crank any time to remove one trait from a character.
+"Dead, Dead, Dead (D025)"	shadows	D025	D025	Condition 	1	-	-	-	C4		"Play any time oin a non-Tulpa Character that has just been popped (and not Saved).  Instead of going to the dead pile, it remains in play in terms ofd uniqueness only.  You may crank any cards, you need to be in order to generate Pull to call this card."
+T. Joe Dreck (D026)	shadows	D026	D026	Character 	2	1	1	-	U3	"Human, Low Life"	Martyr for any Character with Pull that is immediately to the left of this card.
+Eel (D027)	shadows	D027	D027	Character 	3	4	4	-	U2	"Mutant, Lurker"	Surprise.  Characters whose AP is 6 or lower cannot select her as the target of an attack.
+El Zod 7 (D028)	shadows	D028	D028	Character 	1	2	1	-	C2	"Alien, Low Life"	Immune: Psychic.
+Facelessness (D029)	shadows	D029	D029	Whammy 	-	-	-	-	C3	Low Life	Play any time to redirect a non-Low-Life's attack from a Low-Life to any other legal Low-Life target.  The attack counts as normal toward the limit allowed against the original defending player.
+May Ferendi (D030)	shadows	D030	D030	Character 	0	1	3	*	U1	"Human, Le Thuy, Fringe"	+1 Pull to call Fringe Cards.  Crank to call any number of LeThuy Injections.
+Roz Fernsch (D031)	shadows	D031	D031	Character 	2	1*	1*	-	U2	"Mutant, Low Life"	Cannot be attacked by non-Low-Life Humans.  +4 vs. non-Low-Life Humans.
+Otto Finkelstein (D032)	shadows	D032	D032	Character 	3	3	4	1	U2	"Human, Hangman"	"Last Rank.  Crank any time to give all Hangmen +2 vs. Aliens, Animals, Artists. Glorious Lortds, and Mutants.  +1 Pull to call Hangmen."
+Fishwipe (D033)	shadows	D033	D033	Character 	0*	2	1	-	C2	"Human, Low Life"	Doesn't count against 0-Cost card limit.
+Flux (D034)	shadows	D034	D034	Character 	2	2	4	*	U2	"Human, Lurker"	"If Pull not = 0, crank her and one non-lurker to get 2 pull.  She has +1 Pull when cranked."
+Formless (D035)	shadows	D035	D035	Character 	2	3	3	*	U2	"Human, Lurker"	"If Pull not = 0, crank him and one non-lurker to get 2 pull.  He has +1 Pull when cranked."
+Betty Frenum (D036)	shadows	D036	D036	Character 	4	4	4	-	U1	"Human, Artist"	"If Pull=0, you get 1 Influence every time she survives a combat with an oppoenent's Character.  She has +1 Pull when cranked."
+Friends in Justice Barrio (D037)	shadows	D037	D037	Resource 	0	-	-	1*	C4	Hangman	Non-influence Pull only.  +1 Pull to call Hangman cards.
+Friends Under the Street (D038)	shadows	D038	D038	Resource 	0	-	-	1*	C4	Lurker	Non-Influence Pull only.  +1 Pull to call Lurker cards.
+Miriam Galaxy (D039)	shadows	D039	D039	Character 	2	2	3	-	C3	"Human, Lurker, Astral"	Bypass.  Surprise.
+Pepper Grange (D040)	shadows	D040	D040	Character 	1	2	2	-	C3	"Human, Hangman"	"May Gang Up with any Hangman in his file.  Crank anytime to add his DP to the DP of any other, defending Hangman in his file; he is then a combatant and suffers any combat results that the other Hangman suffers."
+Julie Grouse (D041)	shadows	D041	D041	Character 	3	5	5	-	U1	"Human, Criminal, Law"	Crank to add +2 to any attack against a Law or Government.
+Thunder Gruen (D042)	shadows	D042	D042	Character 	2	9	5	0	U2	"Human, Low Life"	"Last rank.  He is cranked when called.  After he attacks, he leaves play, except in terms of uniqueness.  Bulldoze."
+Jill Grunder (D043)	shadows	D043	D043	Character 	3	2	4	-	U2	"Human, Psychic, Net"	Crank any time to let any Net or Criminal.  Crank any time to give any Net +1 AP.
+Gum It Up (D044)	shadows	D044	D044	Whammy 	-	-	-	-	C4		Target Character may crank to pop any condition with which it shares a trait.  The condition may not be on the target character.
+Roman Gundle (D045)	shadows	D045	D045	Character 	3	4	4	-	U2	"Human, Hangman"	"Surprise.  May Gang Up with any Hangman in his file.  Crank anytime to add his DP to the DP of any other, defending Hangman in his file; he is then a combatant and suffers any combat results that the other Hangman suffers."
+Hack-Master (D046)	shadows	D046	D046	Character 	2	2	2	-	C2	"Human, Criminal"	Gang Up.
+Eddie Haggle (D047)	shadows	D047	D047	Character 	2	3*	2*	-	U3	"Human, Low Life"	"In combat, add his opponent's Pull to his Power."
+Barber Hammock (D048)	shadows	D048	D048	Character 	3	1	2*	-	U1	"Mutant, Psychic, Throckmorton"	"Crank any time to add +6 to own DP, +2 to a Throckmorton's DP, or +2 to any attack on a Mutant.  Immune: Surprise."
+Hand Out to the Lost (D049)	shadows	D049	D049	Resource 	0	-	-	*	C3	Low Life	1 Pull to call Low-Life cards.  Crank to draw a card when calling a Low-Life.  You may only draw one card this way per Low-Life called.
+Heating Up (D050)	shadows	D050	D050	Environmental 	2	-	-	-	U2		Uncranks during each player's uncrank phase.  Any player may crank it and pay 2 pull to draw a card from his or her deck during Operations phase.
+Jerry Heckle (D051)	shadows	D051	D051	Character 	3	6	4	-	U1	"Human, Law, Net, Criminal"	"Crank to let a Character Bypass to attack a Law, Net or Criminal."
+Consuela Herrera (D052)	shadows	D052	D052	Character 	3	0	1	-	U2	"Human, Le Thuy"	Crank any time to cancel the Pull just generated by another character.
+Honor Among Thieves (D053)	shadows	D053	D053	Whammy 	-	+3*	-	-	C4	Criminal	Target Criminal gets +3 AP vs. any Character with whom it shares a trait.
+Howdah (D054)	shadows	D054	D054	Character 	3	1	3	*	U2	"Human, Le Thuy, Astral"	Pull equals number of Low-Life's in her file.  Any Low-Life may martyr for her.
+Anya Huesco (D055)	shadows	D055	D055	Character 	2	1	4	*	U1	"Human, Net"	Crank for +2 non-Influence Pull.  Last Rank.  Crank to crank any Law.  Crank any time to reduce a Law's DP by 5.
+Azza Jami (D056)	shadows	D056	D056	Character 	2	5	5	-	U3	"Android, Terminal"	You choose which player to attack and that player chooses the target Character (from among legal options).
+Knobs (D057)	shadows	D057	D057	Character 	1	4	4	-	C3	"Human, Low Life, Criminal"	He does not uncrank during Uncrank phase if he is alone in a file.
+Kwik Klinik (D058)	shadows	D058	D058	Resource 	3	-	0.5	-	U2		Crank any time to give a Human in combat +0.5 DP.  Unique.
+LeThuy Injection (D059)	shadows	D059	D059	Condition 	1@	-	-	-	C2	Le Thuy	Target Human gains trait LeThuy.  Character is Immune: Control (except for Control by Mr. LeThuy).  Can be called on a Low-Life for Cost 0*.
+Mr. Tramh LeThuy (D060)	shadows	D060	D060	Character 	4	2	6	*	U1	"Human, Le Thuy"	Add +1 for each enemy Character that your Characters pop (you may use counters); erase Pull when he uncranks.  Crank to Control a LeThuy.  Any LeThuy may martyr for him.  +2 Pull to call LeThuy cards.
+Giovanni Mancini (D061)	shadows	D061	D061	Character 	4	2	5	1	U1	"Human, Giovanni's Cabbie, Criminal, Net"	All Giovanni's Cabbies gain trait 'Criminal' and those in your first rank may crank to give Giovanni +1 pull until he next uncranks (you may use counters).
+Freddie Manger (D062)	shadows	D062	D062	Character 	2	3	4	-	U3	"Mutant, Psychic"	Cannot be Bypassed.
+Gregory Mantle (D063)	shadows	D063	D063	Character 	2	-	2	-	U3	"Human, Psychic"	"Can't attack.  Crank to draw card from ytour deck.  If it's not a Character, discard it immediately."
+Kalev Maran (D064)	shadows	D064	D064	Character 	2	3	4	-	U2	"Human, Aries"	"Any Low-Life may gang up with him.  You may select any Low-Lifes that the defender must pop (if possible), and the defender may select any other attackers so that the AP of the attackers popped is no more than the DP (as normal)."
+Rita Milagro (D065)	shadows	D065	D065	Character 	3	4	4	-	U1	"Human, Le Thuy, Trident, Cloak"	"May bypass Tridents or Bypass any Characters to attack a Trident.  Crank to pop any Trident card; she is then popped, (no save)."
+Vincent Moire (D066)	shadows	D066	D066	Character 	0*	3	3	-	C2	"Human, Low Life, Criminal"	"If he is alone in a file during your Uncrank phase, he is popped (no save).  Doesn't count against 0-Cost card limit."
+Moonsilk (D067)	shadows	D067	D067	Character 	2	3	4	-	U2	"Human, Hermetic, Astral"	Crank any time to cancel any Astral Whammy or to pop any Astral Condition or Nekros Condition as it is used.
+Ajay Obalago (D068)	shadows	D068	D068	Character 	2	3	3	1*	U1	"Human, Burger, Criminal"	+1 Pull to call Criminal cards.
+Rodney Odge (D069)	shadows	D069	D069	Character 	2	1	1	-	C2	Human	May Gang Up with or Martyr for any Hangman.
+Seiji Ogata (D070)	shadows	D070	D070	Character 	2	3	4	*	U1	"Human, Entrepreneur, Constance"	"If Pull not = 0, crank to remove an adjacent Human without positive pull from play (except in terms of uniqueness), you then get 2 Pull.  Ogata has +2 Pull while cranked."
+Lissy Omgek (D071)	shadows	D071	D071	Character 	4	5	5	-	U1	"Glug, Criminal"	"Immune: Astral, Control, and Psychic."
+Orders From Tomorrow (D072)	shadows	D072	D072	Whammy 	-	-	-	-	C2	Throckmorton	"Target Throckmorton uncranks (if necessary) and attacks.  You choose which player to attack, and that player chooses the target Character (from along legal, non-Throckmorton options).  If popped, the attacker is not saved.  The attack does not count against the normal attack limit."
+Giurgiu Otinka (D073)	shadows	D073	D073	Character 	3	1	5	1*	U1	"Human, Quisling, Net"	"Last Rank.  +1 to call Net, Quisling, and Criminal Cards."
+Otz (D074)	shadows	D074	D074	Character 	1	1	1	-	U3	"Human, Low Life"	"Crank to force one active Character to attack him, provided Otz is a legal target."
+Elizabeth Pock (D075)	shadows	D075	D075	Character 	4	1	1	*	U1	"Human, Low Life, Astral"	"She is cranked when called if any Characters in her file are cranked.  Characters in her file have Pull=0 until end of your turn.  For each pull so lost, she gains +1 Pull.  Immune: Astral."
+Lujayn Qufra (D076)	shadows	D076	D076	Character 	3	3	3	-	U1	"Mutant, Vornite, Psychic"	Crank to Control a Low-Life or move a Low-Life to a new position in its conspiracy (without cranking the Low-Life).
+Hank Ramas (D077)	shadows	D077	D077	Character 	2	4	3	-	C2	"Human, Hangman"	"May Gang Up with any Hangman in his file.  Crank anytime to add his DP to the DP of any other, defending Hangman in his file; he is then a combatant and suffers any combat results that the other Hangman suffers."
+Wanda Rod (D078)	shadows	D078	D078	Character 	2	2	2	-	U2	"Human, Registered, Psychic"	"Any time you play a Fortune Whammy, you may crank her to draw a card.  Any D'Aubainne or Government may crank to control her."
+Alonzo Rubio (D079)	shadows	D079	D079	Character 	4	6*	6*	-	U1	"Kergillian, DBI, Government"	Immune: Surprise.  Flip a coin when called.  Heads: +2 vs. Kergillians.  Tails: +2 vs. DBI's & Governments.  (Leave coin on card as a reminder.)
+Norton Rumple (D080)	shadows	D080	D080	Character 	6	8	8	-	C2	"Human, Law"	"Immune: Control.  As your first action during Operations phase, you either pay 4 pull or Rumple is cranked.  Cannot attack a D'Aubainne."
+Benjamin Sells (D081)	shadows	D081	D081	Character 	1	1	3	*	C2	"Human, Hangman"	"Immune: Surprise.  May Gang Up with any Hangman in his file.  Crank anytime to add his DP to the DP of any other, defending Hangman in his file; he is then a combatant and suffers any combat results that the other Hangman suffers.  +1 Pull to call Hangmen."
+Shake 'Em Out (D082)	shadows	D082	D082	Whammy 	-	-	-	-	C3		Every non-Low-Life whose DP is 1 or lower is popped (no Save).
+Gayth Silver (D083)	shadows	D083	D083	Character 	3	5	5	-	C2	"Human, Neutraliser"	Surprise.
+Slaughter (D084)	shadows	D084	D084	Character 	5	4	3	-	U2	"Human, Compton, Astral"	Xrank any time to remove one adjacent Character without positive pull from play (except in terms of uniqueness).  Then add +5 to any Character's AP.
+Sludge (D085)	shadows	D085	D085	Character 	2	3	3	-	C2	"Human, Lurker"	Martyr for Flux or Formless.
+Smack Back Attack (D086)	shadows	D086	D086	Whammy 	-	-	-	-	C4		Defender may use AP (if any) in place of DP.  Play any time.
+Spike (D087)	shadows	D087	D087	Character 	2	3	2	-	C2	"Human, Glorious Lord"	Bypass Low-Lifes.  All Low-Lifes be Bypasses are cranked.
+Squeaks (D088)	shadows	D088	D088	Character 	3	1	4	-	U3	"Human, Lurker, Psychic"	Crank to pop any character that he is in position to attack and whose DP is 2 or lower.
+Aniela Stansky (D089)	shadows	D089	D089	Character 	2	3	2	-	U2	"Human, Dogface, Low Life"	Patrol baboons ahead of her in her file don't count against the limit of one per player.  Patrol Baboons in her file have the ability Bulldoze.
+Startle (D090)	shadows	D090	D090	Character 	0*	2	3	-	C2	"Human, Low Life"	Any attacker may Surprise him.  Doesn't count against 0-Cost card limit.
+Starwalk (D091)	shadows	D091	D091	Character 	2	3	3	-	C2	"Mutant, Lurker"	"During your shift phase, you may move her to any legal position in your Conspiracy without cranking her."
+Robert Stop (D092)	shadows	D092	D092	Character 	1	3	3	-	C2	"Human, Low Life"	Any Gear on him is popped immediately after it is used.
+Cooper Syme (D093)	shadows	D093	D093	Character 	3	4	6	-	C2	"Human, Fringe, Guild"	Martyr for any Guild.
+"Rod ""Scabs"" Tar (D094)"	shadows	D094	D094	Character 	0	3	1	*	C2	"Human, Le Thuy, Low Life"	+1 Pull to call Lurkers.
+Fea Terronez (D095)	shadows	D095	D095	Character 	4@	0	1	-	U1	"Sub-Random, Low Life"	"If popped and not saved, she moves (cranked) to a different (legal) position in your Conspiracy."
+"Radiator, The (D096)"	shadows	D096	D096	Character 	2	1	2	-	U2	"Human, Low Life, Registered, Psychic"	"+3 vs. Psychics.  When in combat, Psychic Gear on all combatants is popped before combat is resolved.  Can't use Psychic Gear."
+"Skids, The (D097)"	shadows	D097	D097	Condition 	*	-1	-1	0	C3	"Cloak, Low Life"	Target Human or Mutant gains trait Low-Life.  Character may not uncrank during uncrank phase if alone in file.  Cost is 3 + target's Pull.
+"Squeeze, The (D098)"	shadows	D098	D098	Condition 	*	-	-	-	C3	"Criminal, Kidnap"	"To call, you must crank a Criminal that can attack the target.  Cost=Target's DP.  Character is moved to your Conspiracy and gains ability, ""Last Rank""."
+Clyde Throckmorton (D099)	shadows	D099	D099	Character 	6	3	6	2	U1	"Human, Throckmorton, Control, Entrepreneur"	Exclude: Artists.
+Dolores Titania (D100)	shadows	D100	D100	Character 	5	0	4	*	U1	"Cyborg, Guild, Psychic"	Crank any time to make an attacker select a different defending Character (but onbly if another defender is available outside the attacker's Conspiracy.)  This attack still counts as the one permitted against the original player.  +1 to call Guilds.
+Touchy Explosives (D101)	shadows	D101	D101	Gear 	1	+4*	+4*	-	C3	Weapon	"When used, flip a coin.  Heads: +4 vs. current combatant(s).  Tails: Character is popped and flipped, cancelling combat with current combatant(s); If defending, the Character is considered popped by the attack.  Multiple copies may be used.  Discard when used."
+Underworld Contacts (D102)	shadows	D102	D102	Condition 	1	-	-1	1	C3	"Criminal, Net"	"Play on Entrepreneur Only.  -1 DP, +1 Pull."
+Vibro Blaster (D103)	shadows	D103	D103	Gear 	4@	+4*	+4*	-	C3	"Fringe, Gladstein, Weapon"	"+4 Power.  Bonuses of multiple weapons cannot be applied to the same Character.  Immediately after each time a Character uses the Vibro-Blaster, character loses 1 Power permenently (you may use counters)."
+Vortex (D104)	shadows	D104	D104	Character 	4	1	2	-	U1	"Mutant, Lurker, Chaos"	"Crank to call any card from your hand, you must have at least three cards in your hand, and the player on your left randomly selects the card.  If the card is a control card, or if it has no legal targets, it is discarded."
+Tanja Voss (D105)	shadows	D105	D105	Character 	5	2	3	*	U1	"Mutant, Guild, Fringe"	Crank to crank all Characters in play.  +1 Pull to call Guilds.
+Simon Wallop (D106)	shadows	D106	D106	Character 	2	1	3	*	C2	"Human, Criminal"	"If Pull not = 0, crank any time to get Influence equal to the Pull just generated by an opponent's character.  He has this amount of pull until he uncranks (you may use counters)."
+Walter Was (D107)	shadows	D107	D107	Character 	0*	2	1	-	U3	"Human, Low Life"	"At your option, at any time, in regards to any effect or action, you may treat him as if he did not have the trait ""Human"".  Doesn't count against 0-Cost card limit."
+Great White (D108)	shadows	D108	D108	Character 	4	8*	4	-	C2	"Mutant, Criminal, Net"	Crank any time to attack a Character (and legal target) that has been attacked this turn.  May only attack this way.  Doesn't count against attack limit.
+Rhonda Widdershins (D109)	shadows	D109	D109	Character 	0*	3	3	-	C2	"Human, Low Life"	"During your Shift phase, she is cranked.  Doesn't count against 0-Cost card limit."
+Wrench (D110)	shadows	D110	D110	Character 	1	6	3	-	C2	"Human, Criminal"	"When Wrench attacks, the defender may bid 1 Pull to cancel the attack.  The chance to bid circles to the left.  The highest bidder must pay the bid in Pull (by cranking any cards necessary to do so) and may decide whether Wrench's attack is cancelled.  If so, Wrench is cranked, but this attack is considered not to have happened."
+Xotok (D111)	shadows	D111	D111	Character 	1*	3	3	-	U1	Alien	"During Discard phase, you may remove one adjacent character from play (except in terms of uniqueness).  Then place one +1 Power counter on Xotok."
+Sandy Yama (D112)	shadows	D112	D112	Character 	1	2	2	-	C2	"Human, Low Life"	Gang Up.  May only attack by Ganging Up.
+Margarita Yelmo (D113)	shadows	D113	D113	Character 	2	1	1	-	U2	"Human, Psychic, Low Life"	Crank her and one other Psychic to lower a Character's DP by 5.
+Omni Yushka (D114)	shadows	D114	D114	Character 	2	-	4	-	C2	"Human, Low Life"	"Can't attack.  He may not crank, though he may be cranked."
+Oma Zero (D115)	shadows	D115	D115	Character 	2	3	2	-	U3	"Mutant, Low Life, Psychic"	Bypass one Character to attack a cranked Character.
+Laura Zoom (D116)	shadows	D116	D116	Character 	3	4	4	-	U1	"Human, Net, Sommerite"	"Crank any time to give a Sommerite the ability ""Crank any time to Avoid Combat""."
+M'ay Zung (D117)	shadows	D117	D117	Character 	4	0	4	*	U1	"Human, Guild, Fringe"	"If Pull not = 0, crank any time a Character goes to a dead pile from play to gain 2 influence.  She has +2 Pull while cranked.  +1 to call Guilds."
 "Dirt on Her Exaltedness, Monique D'Aubainne, Historic Liberator and Current Shepherdess of Al Amarja, The (001)"	standard	1	1	Secret 	0	-	-	-	R1	"D'Aubainne, Government"	Crank to gain 4 Pull to call D'Aubainne cards or 1 Pull to call Government cards.
 Gladsteins' Secret (002)	standard	2	2	Secret 	0	-	-	-	R1	Gladstein	Crank to call any Gladstein card.  Crank any time to add +1 to any attack on a Gladstein.
 Glorious Lords' Secret (003)	standard	3	3	Secret 	0	-	-	-	R1	Glorious Lord	Crank to call any Glorious Lord card.  Crank any time to add +1 to any attack on a Glorious Lord.
