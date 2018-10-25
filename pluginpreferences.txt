@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>181008</lastversionupdate>
+<lastversionupdate>181023</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>18</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
@@ -58,6 +58,12 @@
 <bindingcard0>CTRL+SPACE</bindingcard0>
 <bindingcard1>SPACE</bindingcard1>
 <bindingcard2>SHIFT+META+MINUS</bindingcard2>
+<bindingcard3>META+MINUS</bindingcard3>
+<bindingcard4>META+EQUALS</bindingcard4>
+<bindingcard5>CTRL+SHIFT+3</bindingcard5>
+<bindingcard6>CTRL+SHIFT+EQUALS</bindingcard6>
+<bindingcard7>CTRL+MINUS</bindingcard7>
+<bindingcard8>CTRL+EQUALS</bindingcard8>
 <bindingcanned0>CTRL+1</bindingcanned0>
 <bindingcanned1>CTRL+2</bindingcanned1>
 <bindingcanned2>CTRL+3</bindingcanned2>
